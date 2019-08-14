@@ -1,5 +1,5 @@
 BGC	Genus	Name	Type	Functions	Structure	Gram	Antibacterial	Antifungal	Siderophore
-BGC0001311	Ruminococcus	Flavecins	Lanthipeptide	Antibacterial	unk	1	1	0	0
+BGC0001311	Ruminococcus	Flavecins	lantipeptide	Antibacterial	unk	1	1	0	0
 BGC0001753	Streptomyces	radamycin	RiPP	unk	CC(C)C1NC(=O)C2=CSC(=N2)C2=C(N=C(C=C2)C(=O)NC(=C)C(=O)NC(=C)C(N)=O)C2=C(C)OC(=N2)C(=C)NC(=O)C(=C)NC(=O)C2=CSC(=N2)C(C)NC(=O)C2=CSC(=N2)C(C)NC(=O)C2=C(C)OC(CNC1=O)=N2	1	0	0	0
 BGC0001323	Solanum	monoterpenes-diterpenes	Terpene	unk	unk	3	0	0	0
 BGC0001454	Streptomyces	germicidin	Other	unk	unk	1	0	0	0
@@ -20,7 +20,7 @@ BGC0001188	Streptomyces	legonaridin	Other	unk	unk	1	0	0	0
 BGC0000144	Streptomyces	salinomycin	Polyketide	Other	unk	1	0	0	0
 BGC0000151	Streptomyces	stambomycin A	Polyketide	Antibacterial,Other	O=C(OC(/C=C/C(O)CC(CCCC(C(C1O)C)O)O)C)CC2(O)OC(C[C@H](O[C@@H]3O[C@H](C)[C@@H](O)[C@H](N(C)C)[C@H]3O)C2C)C(C)C(O)/C(C)=C/C=C/CC(O)C(C)C(O)CCCC(O)CC(O)/C(C)=C/C(C(O)C(O)CCC(C)CC(O)CC(O)C(C)CC1)CCCC(CC)C	1	1	0	0
 BGC0000220	Streptomyces	Enterocin	Polyketide	Antibacterial	O[C@]12C[C@@H](O3)[C@@H](O)[C@]([C@@](C(C4=CC=CC=C4)=O)([H])C2(O)C3=O)(O)[C@@H]1C5=CC(OC)=CC(O5)=O	1	1	0	0
-BGC0000543	Staphylococcus	pep5	Lanthipeptide	unk	unk	1	0	0	0
+BGC0000543	Staphylococcus	pep5	lantipeptide	unk	unk	1	0	0	0
 BGC0001419	Hyalangium	Myxochromide D	NRP	Unknown	C1(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](C)C(=O)N[C@@H](CCC(=O)N)C(=O)O[C@H](C)[C@H](N(C)C(=O)/C=C/C=C/C=C/C=C/C=C/C=C/C=C/CC)C(=O)N[C@@H]1C	0	0	0	0
 BGC0001446	Aspergillus	asparasone A	Polyketide	Other	unk	2	0	0	0
 BGC0001822	Cystobacter	vioprolide	NRP	unk	C\C=C1/NC(=O)C2CSC(=N2)C2CC(C)N2C(=O)C(CC(C)C)NC(=O)C(C)NC(=O)C(O)COC(=O)C(C(C)C)N(C)C(=O)C(NC(=O)C2CCCCN2C1=O)C(C)O	0	0	0	0
@@ -44,7 +44,7 @@ BGC0001150	Streptomyces	pamamycin	Polyketide	Antibacterial,Antifungal,Antioxidan
 BGC0001452	Streptomyces	Sipanmycin	Polyketide	Cytotoxic	unk	1	0	0	0
 BGC0001724	Penicillium	oxaleimide C	NRP	unk	unk	2	0	0	0
 BGC0001006	Salinispora	lymphostin	NRP	Inhibitor	NC1=C(N=C2)C(C2=CC(C(/C=C/OC)=O)=N3)=C3C(NC(C)=O)=C1	1	0	0	0
-BGC0000541	Paenibacillus	paenicidin A	Lanthipeptide	unk	unk	1	0	0	0
+BGC0000541	Paenibacillus	paenicidin A	lantipeptide	unk	unk	1	0	0	0
 BGC0001315	Cucumis	cucurbitacin	Terpene	unk	unk	3	0	0	0
 BGC0001545	Fusarium	chrysogine	NRP	unk	C[C@H](O)C1=NC2=C(C=CC=C2)C(=O)N1	2	0	0	0
 BGC0001148	Streptomyces	pheganomycin	NRP	unk	unk	1	0	0	0
@@ -75,13 +75,13 @@ BGC0001287	Streptomyces	chaxamycin A	Polyketide	unk	unk	1	0	0	0
 BGC0000407	Bacillus	plipastatin	NRP	unk	unk	1	0	0	0
 BGC0000572	Burkholderia	capistruin	Lasso Peptide	unk	unk	0	0	0	0
 BGC0001483	Streptomyces	terfestatin	Other	unk	unk	1	0	0	0
-BGC0000530	Streptococcus	mutacin B-Ny266	Lanthipeptide	unk	unk	1	0	0	0
+BGC0000530	Streptococcus	mutacin B-Ny266	lantipeptide	unk	unk	1	0	0	0
 BGC0000937	Streptomyces	fosfazinomycin	Other	unk	unk	1	0	0	0
 BGC0000646	uncultured	beta-carotein	Terpene	Antioxidant	unk	3	0	0	0
 BGC0000464	Xenorhabdus	Xenoamicin A	NRP	Other	O=C(N[C@H](C(N[C@H](C(C)C)C(N[C@@H](C(C)C)C(N[C@H](C)C(NCCC1=O)=O)=O)=O)=O)C(C)C)[C@@H]([C@H](OC([C@@H](NC([C@@H]2N1CCC2)=O)C(C)C)=O)C)NC([C@H]([C@H](C)CC)NC([C@@H](CC(C)C)NC([C@H](C(C)C)NC([C@@H](C)NC([C@H]3N(C(CCC)=O)CCC3)=O)=O)=O)=O)=O	0	0	0	0
 BGC0000198	Salinispora	Arenimycin A	Polyketide	Antibacterial,Cytotoxic	CC1=CC2=C(C(O)=C1C(OC)=O)[C@]3(C(C4=CC5=C(C(O)=C4C([C@]3(CC2)OC)=O)C(C=C(C5=O)N[C@@H]6[C@@H]([C@H]([C@H]([C@@H](O6)C)O)O)OC)=O)=O)O	1	1	0	0
 BGC0000600	Bacillus	thurincin H	Other	unk	unk	1	0	0	0
-BGC0000514	Staphylococcus	gallidermin	Lanthipeptide	unk	unk	1	0	0	0
+BGC0000514	Staphylococcus	gallidermin	lantipeptide	unk	unk	1	0	0	0
 BGC0000673	Aspergillus	ent-pimara-8(14),15-diene	Terpene	unk	C[C@@]1(CC[C@@H]2C(=C1)CC[C@H]3[C@]2(CCCC3(C)C)C)C=C	2	0	0	0
 BGC0000413	Pseudomonas	pyoverdine	NRP	unk	unk	0	0	0	0
 BGC0000312	Beauveria	bassianolide	NRP	unk	unk	2	0	0	0
@@ -130,7 +130,7 @@ BGC0000134	Metacordyceps	radicicol	Polyketide	unk	unk	2	0	0	0
 BGC0000168	Penicillium	viridicatumtoxin	Polyketide	Antibacterial	unk	2	1	0	0
 BGC0000177	Streptomyces	iso-migrastatin	Polyketide	Cytotoxic,Inhibitor	unk	1	0	0	0
 BGC0000769	Mycobacterium	glycopeptidolipid	Saccharide	unk	unk	1	0	0	0
-BGC0000538	Lactococcus	nisin Z	Lanthipeptide	unk	unk	1	0	0	0
+BGC0000538	Lactococcus	nisin Z	lantipeptide	unk	unk	1	0	0	0
 BGC0001133	Xenorhabdus	Taxlllaid	NRP	Other	O=C(N[C@@H]([C@@H](C)OC([C@H](C)NC([C@@H](NC([C@@H](CC(C)C)NC(C(NC([C@H](CC(C)C)NC(C(N1)C)=O)=O)CC(C)C)=O)=O)CC(C)C)=O)=O)C1=O)CCCC(C)C	0	0	0	0
 BGC0000163	Streptomyces	tetronasin	Polyketide	unk	unk	1	0	0	0
 BGC0001172	Streptomyces	Chlorizidine A	NRP	Cytotoxic	ClC1=C(Cl)C=C2N1C(C3=C2C=C(O)C([C@]4([H])CCC5=CC(Cl)=C(Cl)N54)=C3O)=O	1	0	0	0
@@ -145,7 +145,7 @@ BGC0000261	Streptomyces	R1128	Polyketide	unk	unk	1	0	0	0
 BGC0000913	Enterobacter	menaquinone	Other	unk	unk	0	0	0	0
 BGC0000296	Streptomyces	actinomycin	NRP	unk	unk	1	0	0	0
 BGC0001547	Aspergillus	citreohybridonol	Terpene	unk	unk	2	0	0	0
-BGC0000542	Paenibacillus	paenicidin B	Lanthipeptide	unk	unk	1	0	0	0
+BGC0000542	Paenibacillus	paenicidin B	lantipeptide	unk	unk	1	0	0	0
 BGC0000715	Streptomyces	spectinomycin	Saccharide	unk	unk	1	0	0	0
 BGC0000933	Streptomyces	xiamenmycin	Other	unk	unk	1	0	0	0
 BGC0000384	Lyngbya	Lyngbyatoxin	NRP	Cytotoxic,Other	unk	0	0	0	0
@@ -251,7 +251,7 @@ BGC0000972	Escherichia	N-myristoyl-D-asparagine	NRP	Antibacterial,Other	CCCCCCCC
 BGC0001474	Streptomyces	thiopeptin	Thiopeptide	Antibacterial	C[C@H]([C@H](NC1=S)C2=NC([C@@H](N3)[C@](C4=NC(C(N[C@@](C(N/C(C5=N[C@@H](C(N[C@](C(C)(O)[C@@H](C)O)([H])C6=NC1=CS6)=O)CS5)=C\\C)=O)([H])[C@@H](C)O)=O)=CS4)(NC([C@H](C)NC(C(NC([C@H](C)NC([C@H](C(C)C)N[C@@H]7C=CC8=C(N=C9C=C8[C@@H](O)C)[C@H]7O)=O)=O)=C)=O)=O)CC[C@@H]3C%10=NC(C(NC(C(NC(C(O)=O)=C)=O)=C)=O)=CS%10)=CS2)OC9=O	1	1	0	0
 BGC0000624	Lactobacillus	salivaricin CRL1328 alpha peptide	Other	unk	unk	1	0	0	0
 BGC0000570	Asticcacaulis	astexin-1	Lasso Peptide	unk	unk	0	0	0	0
-BGC0000496	Streptomyces	AmfS	Lanthipeptide	unk	unk	1	0	0	0
+BGC0000496	Streptomyces	AmfS	lantipeptide	unk	unk	1	0	0	0
 BGC0001262	Alternaria	AK-toxin	Polyketide	unk	unk	2	0	0	0
 BGC0001507	Streptomyces	anantin C	RiPP	unk	unk	1	0	0	0
 BGC0000281	Pseudomonas	2,4-Diacetylphloroglucinol	Polyketide	unk	unk	0	0	0	0
@@ -291,7 +291,7 @@ BGC0000208	Amycolatopsis	chelocardin	Polyketide	unk	unk	1	0	0	0
 BGC0000998	Streptomyces	guadinomine	NRP	unk	unk	1	0	0	0
 BGC0001617	Stereum	hirsutene	Terpene	unk	C[C@]12[C@H](CCC1=C)C[C@@H]3[C@H]2CC(C3)(C)C	2	0	0	0
 BGC0000605	Streptomyces	GE37468	Thiopeptide	unk	NC(=O)CC1NC(=O)c2nc(oc2C)c2ccc(nc2c2csc(n2)c2csc(n2)C2N(C(=O)C(NC(=O)C3N=C(C(NC(=O)c4nc1sc4)Cc1ccccc1)SC3)Cc1ccc(cc1)O)C(CC2C)O)c1scc(n1)C(=O)NC(=C)C(=O)NC(=C)C(=O)O	1	0	0	0
-BGC0000531	Streptococcus	mutacin I	Lanthipeptide	unk	unk	1	0	0	0
+BGC0000531	Streptococcus	mutacin I	lantipeptide	unk	unk	1	0	0	0
 BGC0000317	Acremonium	cephalosporin C	NRP	unk	unk	2	0	0	0
 BGC0001301	Streptomyces	anthracimycin	Polyketide	unk	unk	1	0	0	0
 BGC0000087	Streptomyces	lasalocid	Polyketide	unk	unk	1	0	0	0
@@ -307,7 +307,7 @@ BGC0000989	Sorangium	epothilone	NRP	unk	unk	0	0	0	0
 BGC0001215	Streptomyces	conglobatin	NRP	unk	unk	1	0	0	0
 BGC0001654	Bacteroides	lipooligosaccharide	Saccharide	unk	unk	0	0	0	0
 BGC0001811	Fusarium	trichodiene-11-one	Terpene	unk	unk	2	0	0	0
-BGC0000495	Actinoplanes	actagardine	Lanthipeptide	unk	unk	1	0	0	0
+BGC0000495	Actinoplanes	actagardine	lantipeptide	unk	unk	1	0	0	0
 BGC0001372	Penicillium	penigequinolone	Terpene	unk	unk	2	0	0	0
 BGC0000375	Streptomyces	indigoidine	NRP	unk	unk	1	0	0	0
 BGC0000017	[Oscillatoria]	Anatoxin-a	Polyketide	Other	unk	0	0	0	0
@@ -341,7 +341,7 @@ BGC0001045	Pseudomonas	Spiruchostatin A	NRP	Antifungal,Cytotoxic,Inhibitor	unk	0
 BGC0001246	Sarocladium	trans-resorcylide	Polyketide	unk	unk	2	0	0	0
 BGC0001750	Nannocystis	pyrronazol B	NRP	unk	COC1=CC(=O)O[C@H]([C@H]1C)C1=COC(=N1)C(\C)=C\C1=CC=C(Cl)N1	0	0	0	0
 BGC0000629	Aspergillus	aflatrem	Terpene	unk	unk	2	0	0	0
-BGC0000510	Staphylococcus	epilancin K7	Lanthipeptide	unk	unk	1	0	0	0
+BGC0000510	Staphylococcus	epilancin K7	lantipeptide	unk	unk	1	0	0	0
 BGC0001260	Tolypocladium	terpendole E	Terpene	unk	unk	2	0	0	0
 BGC0001456	Streptomyces	isorenieratene	Terpene	unk	unk	1	0	0	0
 BGC0000798	Sorghum	dhurrin	Saccharide	unk	unk	3	0	0	0
@@ -380,12 +380,12 @@ BGC0000084	Streptomyces	laidlomycin	Polyketide	unk	unk	1	0	0	0
 BGC0000127	Pseudomonas	pyoluteorin	Polyketide	unk	unk	0	0	0	0
 BGC0000608	Actinokineospora	nocathiacin	Thiopeptide	unk	unk	1	0	0	0
 BGC0001253	Alternaria	ACT-Toxin I	Polyketide	unk	unk	2	0	0	0
-BGC0000500	Carnobacterium	carnolysin A1	Lanthipeptide	unk	unk	1	0	0	0
+BGC0000500	Carnobacterium	carnolysin A1	lantipeptide	unk	unk	1	0	0	0
 BGC0000331	Planktothrix	cyanopeptin	NRP	unk	unk	0	0	0	0
 BGC0000725	Pseudomonas	alginate	Saccharide	unk	unk	0	0	0	0
 BGC0000901	Aspergillus	ferrichrome	Other	unk	unk	2	0	0	0
 BGC0000082	Actinomadura	kijanimicin	Polyketide	unk	unk	1	0	0	0
-BGC0000545	Ruminococcus	ruminococcin A	Lanthipeptide	unk	unk	1	0	0	0
+BGC0000545	Ruminococcus	ruminococcin A	lantipeptide	unk	unk	1	0	0	0
 BGC0000668	Hapalosiphon	12-epi-hapalindole C	Terpene	Unknown	C=C[C@@]1(C)[C@H]([N+]#[C-])[C@]([C@@]([H])(C(C)=C)CC1)([H])C2=CNC3=CC=CC=C32	0	0	0	0
 BGC0000984	Delftia	delftibactin A	NRP	unk	unk	0	0	0	0
 BGC0001708	Aspergillus	novofumigatonin	Polyketide	unk	unk	2	0	0	0
@@ -398,7 +398,7 @@ BGC0000257	Streptomyces	prodigiosin	Polyketide	unk	unk	1	0	0	0
 BGC0000154	Talaromyces	stipitatic acid	Polyketide	Other	unk	2	0	0	0
 BGC0001665	Mycobacterium	methylated alkyl-resorcinol	Polyketide	unk	unk	1	0	0	0
 BGC0000217	Streptomyces	daunorubicin	Polyketide	unk	unk	1	0	0	0
-BGC0000561	Streptococcus	thermophilin 1277	Lanthipeptide	unk	unk	1	0	0	0
+BGC0000561	Streptococcus	thermophilin 1277	lantipeptide	unk	unk	1	0	0	0
 BGC0000535	Lactococcus	nisin A	Lantipeptide	Antibacterial,Signalling	unk	1	1	0	0
 BGC0000457	Rhizobium	vicibactin	NRP	unk	unk	0	0	0	0
 BGC0000185	Teredinibacter	tartrolon	Polyketide	unk	unk	0	0	0	0
@@ -437,7 +437,7 @@ BGC0000728	Klebsiella	capsular polysaccharide	Saccharide	unk	unk	0	0	0	0
 BGC0001257	Nodulisporium	1,3,6,8-tetrahydroxynaphthalene	Polyketide	unk	unk	2	0	0	0
 BGC0001414	Streptomyces	griselimycin	NRP	unk	unk	1	0	0	0
 BGC0000526	Streptococcus	macedocin	Lantipeptide	Antibacterial	unk	1	1	0	0
-BGC0000537	Streptococcus	nisin U	Lanthipeptide	unk	unk	1	0	0	0
+BGC0000537	Streptococcus	nisin U	lantipeptide	unk	unk	1	0	0	0
 BGC0001778	Streptomyces	showdomycin	Other	unk	OC[C@H]1O[C@H]([C@H](O)[C@@H]1O)C1=CC(=O)NC1=O	1	0	0	0
 BGC0001794	Alternaria	swainsonine	Polyketide	unk	C1C[C@H]([C@@H]2[C@@H]([C@@H](CN2C1)O)O)O	2	0	0	0
 BGC0000962	Lyngbya	barbamide	NRP	Cytotoxic	CC(C/C(=C\\C(=O)N(C)C(CC1=CC=CC=C1)C2=NC=CS2)/OC)C(Cl)(Cl)Cl	0	0	0	0
@@ -457,7 +457,7 @@ BGC0000696	Micromonospora	gentamicin	Saccharide	unk	unk	1	0	0	0
 BGC0000711	Streptomyces	neomycin	Saccharide	unk	unk	1	0	0	0
 BGC0000971	Streptomyces	Cinnabaramide	NRP	Antifungal,Cytotoxic	[H][C@]1([C@@H]([C@]([C@@]2(C)O3)(NC([C@@]2(CCCCCC)[H])=O)C3=O)O)CCCC=C1	1	0	1	0
 BGC0001178	Actinoplanes	UK-68,597	NRP	Antibacterial	O=C1N[C@@H](C2=CC(O3)=CC(OS(O)(=O)=O)=C2)C(N[C@@H](C(N[C@@H]45)=O)C6=CC(OC7=C(Cl)C=C(C[C@@H]1NC(C(C8=CC3=C(O)C(Cl)=C8)=O)=O)C=C7)=C(O[C@@H]9[C@H](OC%10O[C@@H](C)[C@@H](O)[C@](N)(C)C%10)[C@@H](O)[C@H](O)[C@@H](CO)O9)C(OC%11=CC=C([C@@H](O)[C@H](NC4=O)C(N[C@@H](C(O)=O)C%12=CC(O)=CC(O)=C%12C%13=CC5=CC(Cl)=C%13O)=O)C=C%11Cl)=C6)=O	1	1	0	0
-BGC0000549	Streptococcus	salivaricin D	Lanthipeptide	unk	unk	1	0	0	0
+BGC0000549	Streptococcus	salivaricin D	lantipeptide	unk	unk	1	0	0	0
 BGC0001074	Streptomyces	cosmomycin D	Saccharide	unk	unk	1	0	0	0
 BGC0001186	Candidatus	misakinolide	Polyketide	unk	unk	0	0	0	0
 BGC0000326	Streptomyces	complestatin	NRP	unk	unk	1	0	0	0
@@ -471,7 +471,7 @@ BGC0000454	Vibrio	vanchrobactin	NRP	unk	unk	0	0	0	0
 BGC0000308	Staphylococcus	aureusimine	NRP	unk	unk	1	0	0	0
 BGC0000131	Streptomyces	pyrrolomycin	Polyketide	unk	unk	1	0	0	0
 BGC0001459	Amycolatopsis	decaplanin	NRP	Antibacterial	unk	1	1	0	0
-BGC0000527	Bacillus	mersacidin	Lanthipeptide	unk	unk	1	0	0	0
+BGC0000527	Bacillus	mersacidin	lantipeptide	unk	unk	1	0	0	0
 BGC0000943	Staphylococcus	staphylobactin	Other	unk	unk	1	0	0	0
 BGC0001350	Leptolyngbya	phormidolide	Polyketide	unk	unk	0	0	0	0
 BGC0000703	Streptomyces	kanamycin	Saccharide	unk	unk	1	0	0	0
@@ -626,7 +626,7 @@ BGC0000251	Streptomyces	nogalamycin	Polyketide	unk	unk	1	0	0	0
 BGC0000160	Aspergillus	terreic acid	Polyketide	unk	unk	2	0	0	0
 BGC0001169	Streptomyces	piericidin A1	Polyketide	Unknown	unk	1	0	0	0
 BGC0000797	Sphingomonas	sphingan polysaccharide	Saccharide	unk	unk	0	0	0	0
-BGC0000499	Butyrivibrio	butyrivibriocin OR79	Lanthipeptide	unk	unk	1	0	0	0
+BGC0000499	Butyrivibrio	butyrivibriocin OR79	lantipeptide	unk	unk	1	0	0	0
 BGC0001242	Fusarium	fusarubin	Polyketide	unk	unk	2	0	0	0
 BGC0000969	Chondromyces	Chondramid A	NRP	Cytotoxic	C1(=O)NC(C2C=CC(O)=CC=2)C(OC)C(OC(C(C)C=C(C)CC(C)C(=O)NC(C)C(=O)N(C)C1CC1C2C=CC=CC=2NC=1)C)=O	0	0	0	0
 BGC0001706	Hypoxylon	nodulisporic acid F	Terpene	unk	[H][C@]12CC3=C(NC4=C3C=CC=C4)[C@]1(C)[C@@]1(C)CC[C@H](O)[C@@](C)(CC\C=C(/C)C(O)=O)[C@]1([H])CC2	2	0	0	0
@@ -667,7 +667,7 @@ BGC0000344	Pseudomonas	entolysin	NRP	unk	unk	0	0	0	0
 BGC0000702	Streptomyces	kanamycin	Saccharide	unk	unk	1	0	0	0
 BGC0000022	Aspergillus	asperfuranone	Polyketide	unk	unk	2	0	0	0
 BGC0001174	Corynebacterium	corynazolicin	LAP	Antibacterial	O=C(NCC(NCC(O)=O)=O)C1=CSC(C2=CSC(C3=CSC(C4=CSC(C5=CSC([C@@H]6CCCN6C([C@@H](NC(C7=C(C)OC(C8=C(C)OC(C9=CSC(C%10=COC(C%11=CSC([C@@H](N(C)C)CCCNC(N)=N)=N%11)=N%10)=N9)=N8)=N7)=O)[C@H](CC)C)=O)=N5)=N4)=N3)=N2)=N1	1	1	0	0
-BGC0000523	Lactobacillus	lactocin S	Lanthipeptide	unk	unk	1	0	0	0
+BGC0000523	Lactobacillus	lactocin S	lantipeptide	unk	unk	1	0	0	0
 BGC0000879	Streptomyces	toyocamycin	Other	unk	unk	1	0	0	0
 BGC0000121	Pestalotiopsis	pestheic acid	Polyketide	unk	unk	2	0	0	0
 BGC0000477	uncultured	patellin 2 	Cyanobactin	Unknown	unk	3	0	0	0
@@ -680,7 +680,7 @@ BGC0001363	Ralstonia	ralsolamycin	NRP	unk	unk	0	0	0	0
 BGC0001571	Nodulisporium	demethoxyviridin	Terpene	unk	C[C@]12[C@@H](CC(=O)C3=COC(=C31)C(=O)C4=C2C=CC5=C4CCC5=O)O	2	0	0	0
 BGC0000674	Streptomyces	(-)-delta-cadinene	Terpene	unk	unk	1	0	0	0
 BGC0001209	Streptococcus	streptide	Other	unk	unk	1	0	0	0
-BGC0000557	Streptococcus	streptococcin A-FF22	Lanthipeptide	unk	unk	1	0	0	0
+BGC0000557	Streptococcus	streptococcin A-FF22	lantipeptide	unk	unk	1	0	0	0
 BGC0001480	Methylobacter	Tundrenone	Other	Unknown	O[C@@H]1C=CC([C@](C2)([H])[C@H]1OC(C(OCC(C(O)C(CCCCC)=O)=C)=O)=C)=C(O)C2=O	0	0	0	0
 BGC0001176	Streptomonospora	Streptomonomicin	Lassopeptide	Antibacterial	O=C(O)C1CCCN1C(C(CC2=CC=C(O)C=C2)NC(C(C(C)CC)NC(C(C(C)C)NC(C(C(C)CC)NC(C(CC(C)C)NC(C(C)NC(C3N(C(C(CC4=CC=C(O)C=C4)NC(CNC(C(CC(C)C)NC(C(C(CC)C)NC(C(CC(NC(CO)C(NC(CC(C)C)C(NCC(NC(CO)C(NC5CO)=O)=O)=O)=O)=O)NC(C(CC(N)=O)NC(C(CC6=CC=C(O)C=C6)NC(C7CCCN7C5=O)=O)=O)=O)=O)=O)=O)=O)=O)CCC3)=O)=O)=O)=O)=O)=O)=O	1	1	0	0
 BGC0000578	Streptomyces	SRO15-2005	Lassopeptide	Unknown	unk	1	0	0	0
@@ -705,12 +705,12 @@ BGC0001796	Brevibacillus	tauramamide	NRP	unk	CC(C)CCCCCC(=O)N[C@H](CC1=CC=C(O)C=
 BGC0001126	Fischerella	3-(Z-2'-isocyanoethenyl)-indole	Terpene	Unknown	[C-]#[N+]/C=C\\C1=CNC2=CC=CC=C21	0	0	0	0
 BGC0000738	Pasteurella	capsular polysaccharide	Saccharide	unk	unk	0	0	0	0
 BGC0000756	Avibacterium	capsular polysaccharide	Saccharide	unk	unk	0	0	0	0
-BGC0001226	Streptomyces	streptocollin	Lanthipeptide	Unknown,Inhibitor	unk	1	0	0	0
+BGC0001226	Streptomyces	streptocollin	lantipeptide	Unknown,Inhibitor	unk	1	0	0	0
 BGC0000129	Aspergillus	pyripyropene	Polyketide	unk	unk	2	0	0	0
 BGC0001070	Streptomyces	kirromycin	NRP	Antibacterial	unk	1	1	0	0
 BGC0001225	Streptomyces	celesticetin	NRP	unk	unk	1	0	0	0
 BGC0001024	Stigmatella	Myxothiazol	NRP	Antifungal,Cytotoxic	C(=C/C(C)C)\C=C\[C@H](C)C1=NC(C2=NC(/C=C/[C@H](OC)[C@H](/C(=C\C(N)=O)/OC)C)=CS2)=CS1	0	0	1	0
-BGC0000532	Streptococcus	mutacin II	Lanthipeptide	unk	unk	1	0	0	0
+BGC0000532	Streptococcus	mutacin II	lantipeptide	unk	unk	1	0	0	0
 BGC0001389	Pseudomonas	cichopeptin	NRP	unk	unk	0	0	0	0
 BGC0001568	Streptomyces	cytorhodin	Polyketide	unk	CCC1(CC(C2=C(C3=C(C(=C2C1)O)C(=O)C4=C(C3=O)C=CC=C4O)O)OC5CC(C(C(O5)C)OC6CCC(C(O6)C)OC7CCC(C(O7)C)O)N(C)C)OC8CC(C(C(O8)C)O)N(C)C	1	0	0	0
 BGC0000315	Streptomyces	CDA1b	NRP	Antibacterial	O=C(N[C@@H](CC(O)=O)C(N[C@H](C1=CC=C(O)C=C1)C(N[C@@H](CC(O)=O)C(NCC(N[C@@H](C(N[C@@H](CCC(O)=O)C(N[C@@H](CC2=CNC3=C2C=CC=C3)C(O[C@H](C)[C@@H]4NC([C@H](CO)NC(C(O5)C5CCC)=O)=O)=O)=O)=O)[C@H](OP(O)(O)=O)C(N)=O)=O)=O)=O)=O)[C@H](CC(O)=O)NC([C@@H](CC6=CNC7=C6C=CC=C7)NC4=O)=O	1	1	0	0
@@ -720,7 +720,7 @@ BGC0000781	Pseudomonas	O-antigen	Saccharide	unk	unk	0	0	0	0
 BGC0000383	Photorhabdus	Luminmycin	NRP	Cytotoxic	C1CCC[C@H](NC([C@H](C(O)C)NC(/C=C/C=C/CCCCCCC)=O)=O)C(=O)N[C@@H](C)C=CC(=O)N1	0	0	0	0
 BGC0000076	Hypomyces	hypothemycin	Polyketide	unk	unk	2	0	0	0
 BGC0000333	Salinispora	cyclomarin D	NRP	Cytotoxic	unk	1	0	0	0
-BGC0001229	Streptomyces	SBI-06990 A1	Lanthipeptide	Unknown	unk	1	0	0	0
+BGC0001229	Streptomyces	SBI-06990 A1	lantipeptide	Unknown	unk	1	0	0	0
 BGC0000636	Brevibacterium	carotenoid	Terpene	unk	unk	1	0	0	0
 BGC0000964	Burkholderia	Burkholdac A	NRP	Cytotoxic	O=C(NC(C(C)C)C(O)CC1=O)C(CSSCC/C=C/C2O1)NC(C(NC(C2)=O)CCSC)=O	0	0	0	0
 BGC0001339	Phoma	Squalestatin S1	Polyketide	Antifungal,Inhibitor	unk	2	0	1	0
@@ -756,12 +756,12 @@ BGC0000450	Streptomyces	triostin A	NRP	unk	unk	1	0	0	0
 BGC0000902	Saccharopolyspora	flaviolin	Other	unk	unk	1	0	0	0
 BGC0001696	Streptomyces	neothioviridamide	Other	unk	unk	1	0	0	0
 BGC0001375	Penicillium	penitrem A	Terpene	unk	unk	2	0	0	0
-BGC0000552	Streptococcus	Smb A	Lanthipeptide	unk	unk	1	0	0	0
+BGC0000552	Streptococcus	Smb A	lantipeptide	unk	unk	1	0	0	0
 BGC0000859	Methylomicrobium	ectoine	Other	unk	unk	0	0	0	0
 BGC0001684	Klebsiella	N-acyloxyacyl glutamine	Other	unk	unk	0	0	0	0
 BGC0000239	Streptomyces	Landomycin A	Polyketide	Antibacterial,Cytotoxic	unk	1	1	0	0
 BGC0000554	Streptomyces	SRO15-3108	Lantipeptide	Unknown	unk	1	0	0	0
-BGC0000556	Streptococcus	streptin	Lanthipeptide	unk	unk	1	0	0	0
+BGC0000556	Streptococcus	streptin	lantipeptide	unk	unk	1	0	0	0
 BGC0000916	Staphylococcus	molybdenum cofactor	Other	unk	unk	1	0	0	0
 BGC0000735	Pasteurella	capsular polysaccharide	Saccharide	unk	unk	0	0	0	0
 BGC0001066	Streptomyces	Kendomycin	Polyketide	Antibacterial,Cytotoxic	C[C@H]\1CC[C@@H]2[C@@H]([C@@H]([C@H]([C@@H](O2)C3=C(C(=O)C(=C4C3=C[C@@](O4)([C@H](C[C@@H](C/C(=C1)/C)C)C)O)C)O)C)O)C	1	1	0	0
@@ -819,7 +819,7 @@ BGC0000945	Vibrio	vibriobactin	Other	unk	unk	0	0	0	0
 BGC0001204	Streptomyces	versipelostatin	Polyketide	unk	unk	1	0	0	0
 BGC0000717	Streptomyces	streptomycin	Saccharide	unk	unk	1	0	0	0
 BGC0001709	Streptomyces	nystatin	Polyketide	unk	C[C@H]1/C=C/C=C/CC/C=C/C=C/C=C/C=C/C(CC2C(C(C[C@](O2)(CC(C(CCC(CC(CC(CC(=O)O[C@H]([C@@H]([C@@H]1O)C)C)O)O)O)O)O)O)O)C(=O)O)O[C@@H]3[C@H]([C@H]([C@@H]([C@H](O3)C)O)N)O	1	0	0	0
-BGC0000555	Staphylococcus	staphylococcin C55 alpha	Lanthipeptide	unk	unk	1	0	0	0
+BGC0000555	Staphylococcus	staphylococcin C55 alpha	lantipeptide	unk	unk	1	0	0	0
 BGC0000699	Streptomyces	hygromycin B	Saccharide	unk	unk	1	0	0	0
 BGC0001321	Solanum	monoterpenes-diterpenes	Terpene	unk	unk	3	0	0	0
 BGC0000598	Candidatus	polytheonamide A	Proteusin	Cytotoxic	unk	0	0	0	0
@@ -946,7 +946,7 @@ BGC0001421	Myxococcus	Myxochromide B	NRP	Unknown	C(=C/C=C/C=C/C=C/C=C/C=C/C)\\C=
 BGC0001562	Streptomyces	curacomycin	NRP	unk	CC[C@H](C)[C@@H]3NC(=O)[C@@H](CC(C)C)NC(=O)[C@@H](C(C)C)NC(=O)[C@H](Cc1c[nH]c2ccc(Cl)cc12)NC(=O)C(C(O)C(N)=O)NC(=O)[C@H](CCCN)NC3=O	1	0	0	0
 BGC0000478	uncultured	patellin 6	Cyanobactin	Unknown	unk	3	0	0	0
 BGC0000178	Chitinophaga	Elansolid A1	Polyketide	Antibacterial,Cytotoxic	[C@@]1(C)(O)C[C@@](C)(C)C2C1C=C(C)C([H])(/C=C\C=C\C=C/C(C(C)C(C/C=C(/C=C/C(O)=O)\C)O)O)C2C(OC)C1=CC=C(O)C=C1	0	1	0	0
-BGC0000540	Paenibacillus	paenibacillin	Lanthipeptide	unk	unk	1	0	0	0
+BGC0000540	Paenibacillus	paenibacillin	lantipeptide	unk	unk	1	0	0	0
 BGC0001594	Fischerella	fischerindole	Alkaloid	unk	[C]=NC1C2c3c([nH]c4ccccc34)C(C)(C)C2CC(Cl)C1(C)C=C	0	0	0	0
 BGC0000001	Verrucosispora	Abyssomicin C	Polyketide	Antibacterial,Cytotoxic	C[C@@H](C1=O)C[C@H](C)C/C=C/[C@H]([C@@H](O)[C@@H]2OC3=C1C4=O)[C@]3(O4)C[C@H]2C	1	1	0	0
 BGC0000291	Streptomyces	A54145	NRP	unk	unk	1	0	0	0
@@ -990,7 +990,7 @@ BGC0000367	Brevibacillus	gramicidin	NRP	unk	unk	1	0	0	0
 BGC0001657	Lysobacter	lysocin	NRP	unk	CC[C@H](C)[C@H]1C(=O)N[C@H](C(=O)O[C@@H]([C@@H](C(=O)N[C@@H](C(=O)N[C@H](C(=O)NCC(=O)N([C@@H](C(=O)N[C@H](C(=O)N[C@@H](C(=O)N[C@H](C(=O)N[C@@H](C(=O)N[C@@H](C(=O)N1)CC2=CNC3=CC=CC=C32)CCC(=O)N)CCC(=O)O)CCCN=C(N)N)CC(C)C)CC4=CC=CC=C4)C)CO)CCCN=C(N)N)NC(=O)C[C@@H](CC(C)C)O)C)[C@@H](C)O	0	0	0	0
 BGC0000366	Streptomyces	gobichelin	NRP	unk	unk	1	0	0	0
 BGC0001689	Streptomyces	naphthgeranine A	Polyketide	unk	unk	1	0	0	0
-BGC0000525	Bacillus	lichenicidin VK21 A1	Lanthipeptide	unk	unk	1	0	0	0
+BGC0000525	Bacillus	lichenicidin VK21 A1	lantipeptide	unk	unk	1	0	0	0
 BGC0000442	Aspergillus	terrequinone A	NRP	Cytotoxic	[H]N1C2=CC=CC=C2C(C(C(C(C/C=C(C)\\C)=C3C4=CN([H])C5=CC=CC=C54)=O)=C(O)C3=O)=C1C(C)(C=C)C.[H]N6C7=CC=CC=C7C(C(C(C(C/C=C(C)\\C)=C8C9=CN([H])C%10=CC=CC=C%109)=O)=C(O)C8=O)=C6C(C)(C=C)C	2	0	0	0
 BGC0000306	Streptomyces	Arylomycin	NRP	Antibacterial	unk	1	1	0	0
 BGC0000553	Streptomyces	SRO15-2212	Lantipeptide	Unknown	unk	1	0	0	0
@@ -1029,7 +1029,7 @@ BGC0001721	Burkholderia	ornibactin	NRP	unk	unk	0	0	0	0
 BGC0000303	Streptomyces	anthramycin	NRP	unk	unk	1	0	0	0
 BGC0001433	Streptomyces	argimycin PI	Polyketide	Unknown	O=C(O)[C@@H](NC(C)=O)CS/C(C)=C([H])/C([H])=C1C=CC2=C\\1C=CC=N2	1	0	0	0
 BGC0000188	Cylindrospermopsis	Saxitoxin	Alkaloid	Other	unk	0	0	0	0
-BGC0000534	Streptococcus	mutacin K8	Lanthipeptide	unk	unk	1	0	0	0
+BGC0000534	Streptococcus	mutacin K8	lantipeptide	unk	unk	1	0	0	0
 BGC0000400	Paenibacillus	paenibacterin	NRP	unk	unk	1	0	0	0
 BGC0000459	Streptomyces	griseoviridin	NRP	Antibacterial	O=C(NC/C=C/C=C/[C@@H](O)C[C@H](CC1=NC2=CO1)O)/C(SC[C@H]3NC2=O)=C/C[C@@H](C)OC3=O	1	1	0	0
 BGC0001772	Anabaena	scytophycin	Polyketide	unk	C[C@H]1[C@@H](C[C@@H]([C@]2(CO2)[C@H](C[C@@H]3CC=C[C@H](O3)C[C@H]([C@H](/C=C(/C=C/C(=O)O[C@@H]1[C@@H](C)[C@H]([C@@H](C)CCC(=O)[C@H](C)[C@@H]([C@H](C)/C=C/N(C)C=O)OC)O)\C)O)OC)OC)OC)OC	0	0	0	0
@@ -1067,7 +1067,7 @@ BGC0001193	Saccharothrix	thiolutin	NRP	unk	unk	1	0	0	0
 BGC0000589	Escherichia	Microcin M	Microcin	unk	unk	0	0	0	0
 BGC0000487	Carnobacterium	carnocyclin	Head-To-Tail Cyclized Peptide	unk	unk	1	0	0	0
 BGC0000271	Streptomyces	spore pigment	Polyketide	unk	unk	1	0	0	0
-BGC0000562	Kocuria	variacin	Lanthipeptide	unk	unk	1	0	0	0
+BGC0000562	Kocuria	variacin	lantipeptide	unk	unk	1	0	0	0
 BGC0000011	Aspergillus	aflatoxin	Polyketide	unk	unk	2	0	0	0
 BGC0000070	Penicillium	griseofulvin	Polyketide	Antifungal,Cytotoxic	unk	2	0	1	0
 BGC0001611	Streptomyces	guangnanmycin	NRP	unk	unk	1	0	0	0
@@ -1076,7 +1076,7 @@ BGC0000794	Geobacillus	S-layer glycan	Saccharide	unk	unk	1	0	0	0
 BGC0001089	Bacillus	bacillaene	Other	Antibacterial	unk	1	1	0	0
 BGC0000653	Streptomyces	pentalenolactone	Terpene	unk	unk	1	0	0	0
 BGC0001051	Sorangium	Thuggacin A	NRP	Antibacterial	[C@@H]1(O)C=CC=CC[C@H](OC(=O)C(CCCCCC)=CC2N=C(SC=2)[C@H](C)[C@@H](O)C1)[C@H]([C@H](O)C(C(O)/C(=C/C(=C/C)/C)/C)C)O	0	1	0	0
-BGC0000508	Staphylococcus	epidermin	Lanthipeptide	unk	unk	1	0	0	0
+BGC0000508	Staphylococcus	epidermin	lantipeptide	unk	unk	1	0	0	0
 BGC0000433	Bacillus	surfactin	NRP	Surfactant	unk	1	0	0	0
 BGC0000720	Streptoalloteichus	tobramycin	Saccharide	unk	unk	1	0	0	0
 BGC0000124	Streptomyces	piericidin A1	Polyketide	unk	unk	1	0	0	0
@@ -1145,7 +1145,7 @@ BGC0001156	Streptomyces	Platencin	Terpene	Antibacterial	unk	1	1	0	0
 BGC0000270	Streptomyces	simocyclinone	Polyketide	unk	unk	1	0	0	0
 BGC0001463	Pseudoalteromonas	2,3,4,5-tetrabromopyrrole	Other	Inhibitor,Signalling	unk	0	0	0	0
 BGC0001538	Streptomyces	caboxamycin	NRP	unk	OC(=O)C1=CC=CC2=C1N=C(O2)C1=C(O)C=CC=C1	1	0	0	0
-BGC0000507	Staphylococcus	epicidin	Lanthipeptide	unk	unk	1	0	0	0
+BGC0000507	Staphylococcus	epicidin	lantipeptide	unk	unk	1	0	0	0
 BGC0000090	Actinosynnema	Macbecin I	Polyketide	Cytotoxic,Other	unk	1	0	0	0
 BGC0001788	Streptococcus	suicin 65	RiPP	unk	unk	1	0	0	0
 BGC0001015	Planktothrix	microcystin	NRP	unk	unk	0	0	0	0
@@ -1167,7 +1167,7 @@ BGC0000709	Streptomyces	neomycin	Saccharide	unk	unk	1	0	0	0
 BGC0000157	Streptomyces	tautomycetin	Polyketide	unk	unk	1	0	0	0
 BGC0000192	Streptomyces	aclacinomycin	Polyketide	unk	unk	1	0	0	0
 BGC0001695	Streptomyces	neoantimycin	NRP	unk	[H][C@]1(OC(=O)C(C)(C)[C@@H](O)[C@@H](CC2=CC=CC=C2)OC(=O)[C@@H](OC(=O)[C@@H](NC(=O)C2=C(O)C(NC=O)=CC=C2)[C@H](C)OC1=O)C(C)C)[C@@H](C)CC	1	0	0	0
-BGC0000494	Streptococcus	uberolysin	Lanthipeptide	unk	unk	1	0	0	0
+BGC0000494	Streptococcus	uberolysin	lantipeptide	unk	unk	1	0	0	0
 BGC0001340	Byssochlamys	byssochlamic acid	Polyketide	Unknown	unk	2	0	0	0
 BGC0001434	Xenorhabdus	nematophin	NRP	unk	unk	0	0	0	0
 BGC0001190	Fusarium	fusaric acid	Polyketide	unk	unk	2	0	0	0
@@ -1218,7 +1218,7 @@ BGC0000832	Streptomyces	clorobiocin	Saccharide	Antibacterial	ClC1=C(C([H])=C([H]
 BGC0000149	Sorangium	Spirangien A1	Polyketide	Cytotoxic	O1[C@@]([C@@H](C)[C@@H](O)[C@@H](C)/C=C\C=C\C=C/C=C/C=C\[C@@H](OC)CC(O)=O)([H])[C@@H](C)C[C@H](O)[C@]21O[C@@]([H])([C@H](C)[C@H](OC)C2)[C@H](C)[C@@H](O)[C@@H](C)C/C(/C)=C/C	0	0	0	0
 BGC0001622	Streptomyces	isatropolone A	Polyketide	unk	unk	1	0	0	0
 BGC0000891	Pseudoalteromonas	pentabromopseudilin	Other	Antibacterial,Cytotoxic,Inhibitor	C1=C(C=C(C(=C1Br)O)C2=C(C(=C(N2)Br)Br)Br)Br	0	1	0	0
-BGC0000502	Bacillus	cerecidin	Lanthipeptide	unk	unk	1	0	0	0
+BGC0000502	Bacillus	cerecidin	lantipeptide	unk	unk	1	0	0	0
 BGC0001200	Streptomyces	lorneic acid A	Polyketide	unk	unk	1	0	0	0
 BGC0000235	Streptomyces	kiamycin	Polyketide	unk	unk	1	0	0	0
 BGC0000428	Streptosporangium	sibiromycin	NRP	unk	unk	1	0	0	0
@@ -1298,11 +1298,11 @@ BGC0000606	Streptomyces	lactazole	Thiopeptide	unk	unk	1	0	0	0
 BGC0000484	Lactobacillus	glycocin F	Head-To-Tail Cyclized Peptide	unk	unk	1	0	0	0
 BGC0000282	Streptomyces	alkylresorcinol	Polyketide	unk	unk	1	0	0	0
 BGC0000946	Vibrio	vibrioferrin	Other	unk	unk	0	0	0	0
-BGC0000550	Streptococcus	salivaricin G32	Lanthipeptide	unk	unk	1	0	0	0
+BGC0000550	Streptococcus	salivaricin G32	lantipeptide	unk	unk	1	0	0	0
 BGC0000377	Bacillus	koranimine	NRP	unk	unk	1	0	0	0
 BGC0000867	Ectothiorhodospira	polyhydroxyalkanoic acids	Other	unk	unk	0	0	0	0
 BGC0001357	Nostoc	carbamidocyclophane A	Polyketide	unk	unk	0	0	0	0
-BGC0000521	Lactococcus	lacticin 481	Lanthipeptide	unk	unk	1	0	0	0
+BGC0000521	Lactococcus	lacticin 481	lantipeptide	unk	unk	1	0	0	0
 BGC0001366	Streptomyces	BE-24566B	Polyketide	unk	CC1=CC(O)=CC2=C1[C@@H]1O[C@@](C)(CC3=C1C(O)=C1C(=O)C4=C(C=C(O)C=C4O)C(C)(C)C1=C3)O2	1	0	0	0
 BGC0000740	Streptococcus	capsular polysaccharide	Saccharide	unk	unk	1	0	0	0
 BGC0000391	Marinactinospora	methylpendolmycin	NRP	Cytotoxic,Signalling	CC[C@H](C)[C@H]1C(=O)N[C@@H](CC2=CNC3=C(C=CC(=C23)N1C)C(C)(C)C=C)CO	1	0	0	0
@@ -1327,7 +1327,7 @@ BGC0001239	Aspergillus	biotin	Other	unk	unk	2	0	0	0
 BGC0001147	Streptomyces	disgocidine	NRP	Unknown	unk	1	0	0	0
 BGC0000967	uncultured	calyculin A	NRP	Cytotoxic	unk	3	0	0	0
 BGC0001251	Epichloe	epichloenin A	NRP	unk	unk	2	0	0	0
-BGC0000539	Staphylococcus	nukacin ISK-1	Lanthipeptide	unk	unk	1	0	0	0
+BGC0000539	Staphylococcus	nukacin ISK-1	lantipeptide	unk	unk	1	0	0	0
 BGC0000700	Streptomyces	istamycin	Saccharide	unk	unk	1	0	0	0
 BGC0001726	Streptomyces	pactamides	NRP	unk	unk	1	0	0	0
 BGC0000742	Streptococcus	capsular polysaccharide	Saccharide	unk	unk	1	0	0	0
@@ -1365,7 +1365,7 @@ BGC0000669	Arabidopsis	Marneral	Terpene	Unknown	unk	3	0	0	0
 BGC0001619	Streptomyces	ibomycin	Polyketide	unk	unk	1	0	0	0
 BGC0001071	Nostoc	nosperin	Polyketide	Unknown	C[C@@H]1[C@H](C)C(C[C@@]([C@H](O)C(N/C=C/C(CO)[C@@H](O)C(C)C(N2CCC[C@H]2[C@H](O)CC(N)=O)=O)=O)(OC)O1)=C	0	0	0	0
 BGC0001270	Fusarium	gibberellin A3	Polyketide	unk	unk	2	0	0	0
-BGC0000536	Lactococcus	nisin Q	Lanthipeptide	unk	unk	1	0	0	0
+BGC0000536	Lactococcus	nisin Q	lantipeptide	unk	unk	1	0	0	0
 BGC0000116	Pseudonocardia	nystatin-like Pseudonocardia polyene	Polyketide	unk	unk	1	0	0	0
 BGC0000808	Burkholderia	Cepacian	Saccharide	Other	unk	0	0	0	0
 BGC0001067	Aspergillus	fumagillin	Polyketide	Inhibitor	unk	2	0	0	0
@@ -1389,7 +1389,7 @@ BGC0000419	Amycolatopsis	Ristomycin A	NRP	Antibacterial	unk	1	1	0	0
 BGC0000362	Mycobacterium	glycopeptidolipid	NRP	unk	unk	1	0	0	0
 BGC0000290	Streptomyces	A47934	NRP	Antibacterial	unk	1	1	0	0
 BGC0000761	Methylobacillus	exopolysaccharide	Saccharide	unk	unk	0	0	0	0
-BGC0000497	Streptococcus	BhtA1	Lanthipeptide	unk	unk	1	0	0	0
+BGC0000497	Streptococcus	BhtA1	lantipeptide	unk	unk	1	0	0	0
 BGC0000795	Aneurinibacillus	S-layer glycan	Saccharide	unk	unk	1	0	0	0
 BGC0001592	Streptomyces	ferroverdin	Other	unk	C=CC1=CC=C(C=C1)OC(=O)C2=CC(=C(C=C2)[O-])N=O.C=CC1=CC=C(C=C1)OC(=O)C2=CC(=C(C=C2)[O-])N=O.C=CC1=CC=C(C=C1)OC(=O)C2=CC(=C(C=C2)[O-])N=O.[Na+].[Fe+2]	1	0	0	0
 BGC0001508	Penicillium	andrastin A	Polyketide	unk	CC1C(=O)[C@@]2(C(=C[C@@H]3[C@@]([C@@]2(C1=O)C(=O)OC)(CC[C@H]4[C@]3(CC[C@@H](C4(C)C)OC(=O)C)C=O)C)C)C	2	0	0	0
@@ -1449,7 +1449,7 @@ BGC0000068	Streptomyces	geldanamycin	Polyketide	unk	unk	1	0	0	0
 BGC0000951	Streptomyces	pacidamycin 1	NRP	unk	O[C@@H]([C@H](N1C(NC(C=C1)=O)=O)O/2)CC2=C\NC([C@@H](NC([C@H](C)NC(N[C@@H](CC3=CNC4=C3C=CC=C4)C(O)=O)=O)=O)[C@@H](N(C)C([C@H](CC5=CC=CC(O)=C5)NC([C@@H](N)C)=O)=O)C)=O	1	0	0	0
 BGC0000925	Pseudomonas	quinolobactin	Other	unk	unk	0	0	0	0
 BGC0000996	Streptomyces	frontalamide B	NRP	Antifungal	O=C(NCCC(O)C1C(O)=C(C(/C=C/2)=O)C(N1)=O)/C=C\\C[C@H]([C@]3([H])[C@]4([H])[C@@]5([H])[C@@](C[C@H](C=C)[C@@H]5C)([H])C3)[C@H]2CC4=O	1	0	1	0
-BGC0000558	Bacillus	sublancin 168	Lanthipeptide	unk	unk	1	0	0	0
+BGC0000558	Bacillus	sublancin 168	lantipeptide	unk	unk	1	0	0	0
 BGC0001037	Aspergillus	pseurotin	NRP	Inhibitor	unk	2	0	0	0
 BGC0000486	Butyrivibrio	butyrivibriocin AR10	Head-To-Tail Cyclized Peptide	unk	unk	1	0	0	0
 BGC0001221	Streptomyces	marinophenazine A	Other	Cytotoxic	C/C(=C\\COc1cccc2c1nc1cccc(c1[n+]2[O-])O)/CCC=C(C)C	1	0	0	0
@@ -1462,7 +1462,7 @@ BGC0000580	Xanthomonas	xanthomonin I	Other	unk	unk	0	0	0	0
 BGC0001042	Streptomyces	sanglifehrin A	NRP	unk	unk	1	0	0	0
 BGC0000095	Micromonospora	micromonolactam	Polyketide	unk	unk	1	0	0	0
 BGC0000472	Anabaena	anacyclamide	Cyanobactin	Unknown	unk	0	0	0	0
-BGC0000547	Streptococcus	salivaricin 9	Lanthipeptide	unk	unk	1	0	0	0
+BGC0000547	Streptococcus	salivaricin 9	lantipeptide	unk	unk	1	0	0	0
 BGC0000772	Brucella	lipopolysaccharide	Saccharide	unk	unk	0	0	0	0
 BGC0001294	Streptomyces	7-prenylisatin	Other	unk	unk	1	0	0	0
 BGC0000066	Streptomyces	geldanamycin	Polyketide	unk	unk	1	0	0	0
@@ -1514,7 +1514,7 @@ BGC0000218	Streptomyces	doxorubicin	Polyketide	unk	unk	1	0	0	0
 BGC0001273	Aspergillus	asperlactone	Polyketide	unk	unk	2	0	0	0
 BGC0001612	Fischerella	hapalindole	Alkaloid	unk	[H][C@@]12CC[C@@](C)(C=C)[C@@H]([N+]#[C-])[C@@]1([H])C1=C(NC3=CC=CC(=C13)C2(C)C)C(C)(C)C=C	0	0	0	0
 BGC0001566	Cylindrospermum	cylindrocyclophane	Polyketide	unk	CCCC[C@@H]1CCCC[C@H]([C@@H](C2=CC(=C([C@@H](CCCC[C@H]([C@@H](C3=CC(=C1C(=C3)O)O)O)C)CCCC)C(=C2)O)O)O)C	0	0	0	0
-BGC0000548	Streptococcus	salivaricin A	Lanthipeptide	unk	unk	1	0	0	0
+BGC0000548	Streptococcus	salivaricin A	lantipeptide	unk	unk	1	0	0	0
 BGC0000045	Aspergillus	dehydrocurvularin	Polyketide	unk	unk	2	0	0	0
 BGC0001406	Streptomyces	telomycin	NRP	unk	unk	1	0	0	0
 BGC0000953	Streptomyces	amicetin	Saccharide	Antibacterial	unk	1	1	0	0
@@ -1528,7 +1528,7 @@ BGC0000659	Saccharopolyspora	2-methylisoborneol	Terpene	unk	unk	1	0	0	0
 BGC0000310	Bacillus	bacitracin	NRP	unk	unk	1	0	0	0
 BGC0001351	Streptomyces	cahuitamycin A	NRP	unk	[H]C(=O)N(O)CCC[C@@H](NC(=O)[C@H](CO)NC(=O)[C@@H]1COC(=N1)C1=CC=CC=C1O)C(=O)N1NCCC[C@@H]1C(=O)NCCC(O)=O	1	0	0	0
 BGC0001349	Streptomyces	heronamide A	NRP	unk	unk	1	0	0	0
-BGC0000522	Lactococcus	lacticin Z	Lanthipeptide	unk	unk	1	0	0	0
+BGC0000522	Lactococcus	lacticin Z	lantipeptide	unk	unk	1	0	0	0
 BGC0001122	Aspergillus	dihydroisoflavipucine	NRP	Unknown	OC(CC(C)C)C(O1)OC2=C1C=C(C)NC2=O	2	0	0	0
 BGC0000006	Aspergillus	aflatoxin	Polyketide	unk	unk	2	0	0	0
 BGC0001020	Streptomyces	muraymycin	NRP	unk	unk	1	0	0	0
@@ -1618,7 +1618,7 @@ BGC0001477	Streptomyces	lydicamycin	NRP	Antibacterial	unk	1	1	0	0
 BGC0001564	Cuspidothrix	cusperin	NRP	unk	unk	0	0	0	0
 BGC0000667	Penicillium	PR toxin	Terpene	unk	unk	2	0	0	0
 BGC0001436	Paecilomyces	cornexistin	Polyketide	Other	O=C(OC1=O)C2=C1[C@@H](CCC)[C@H](O)C(C[C@H](O)/C(C2)=C\\C)=O	2	0	0	0
-BGC0000505	Enterococcus	enterocin W alpha	Lanthipeptide	unk	unk	1	0	0	0
+BGC0000505	Enterococcus	enterocin W alpha	lantipeptide	unk	unk	1	0	0	0
 BGC0000347	Streptococcus	equibactin	NRP	unk	unk	1	0	0	0
 BGC0000221	uncultured	erdacin	Polyketide	unk	unk	3	0	0	0
 BGC0001534	Streptomyces	branched-chain fatty acids	Other	unk	unk	1	0	0	0
@@ -1674,7 +1674,7 @@ BGC0000125	Streptomyces	pimaricin	Polyketide	unk	unk	1	0	0	0
 BGC0001423	Myxococcus	Myxochromide C	NRP	Unknown	C1(=O)N[C@@H](CC(C)C)C(N2CCC[C@H]2C(=O)N[C@@H](CCC(=O)N)C(=O)O[C@H](C)[C@H](N(C)C(=O)/C=C/C=C/C=C/C=C/C=C/C=C/C=C/C=C/C)C(=O)N[C@@H]1C)=O	0	0	0	0
 BGC0000280	Pseudomonas	2,4-diacetylphloroglucinol	Polyketide	Antifungal	unk	0	0	1	0
 BGC0000579	Streptomyces	SSV-2083	Lantipeptide	Unknown	unk	1	0	0	0
-BGC0000498	Streptococcus	bovicin HJ50	Lanthipeptide	unk	unk	1	0	0	0
+BGC0000498	Streptococcus	bovicin HJ50	lantipeptide	unk	unk	1	0	0	0
 BGC0000617	Bacillus	coagulin	Other	unk	unk	1	0	0	0
 BGC0000601	Bacillus	sporulation killing factor	Head-to-tailcyclized peptide	Antibacterial	unk	1	1	0	0
 BGC0000654	Streptomyces	Phenalinolactone A	Terpene	Antibacterial	unk	1	1	0	0
@@ -1690,7 +1690,7 @@ BGC0001700	Streptomyces	niphimycins C-E	Polyketide	unk	CC1CCC(C(C(CC(C(/C=C/C(C(
 BGC0000448	Streptomyces	tomaymycin	NRP	unk	unk	1	0	0	0
 BGC0000592	Microcystis	Microviridin B	Microviridin	Inhibitor	CC(C)C[C@H]1NC(=O)[C@H](NC(=O)[C@@H](NC(=O)CNC(=O)[C@H](CC2=CC=CC=C2)NC(C)=O)[C@@H](C)O)[C@@H](C)OC(=O)C[C@@H]2NC(=O)[C@@H]3COC(=O)CC[C@@H](NC(=O)[C@H](CC4=CNC5=C4C=CC=C5)NC2=O)C(=O)N[C@@H](CCC(=O)NCCCC[C@H](NC1=O)C(=O)N[C@@H](CC1=CC=C(O)C=C1)C(=O)N1CCC[C@H]1C(=O)N3)C(=O)N[C@@H](CC1=CC=C(O)C=C1)C(O)=O	0	0	0	0
 BGC0000247	Streptomyces	mithramycin	Polyketide	Cytotoxic	C[C@@H]1[C@H]([C@@H](C[C@@H](O1)O[C@@H]2C[C@@H](O[C@@H]([C@H]2O)C)OC3=CC4=CC5=C(C(=O)[C@H]([C@@H](C5)[C@@H](C(=O)[C@H]([C@@H](C)O)O)OC)O[C@H]6C[C@H]([C@@H]([C@H](O6)C)O)O[C@H]7C[C@H]([C@H]([C@H](O7)C)O)O[C@H]8C[C@]([C@@H]([C@H](O8)C)O)(C)O)C(=C4C(=C3C)O)O)O)O	1	0	0	0
-BGC0000528	Clavibacter	michiganin A	Lanthipeptide	unk	unk	1	0	0	0
+BGC0000528	Clavibacter	michiganin A	lantipeptide	unk	unk	1	0	0	0
 BGC0001763	Streptomyces	rufomycin	NRP	unk	C/C=C/C[C@H]1C(=O)N[C@H](C(=O)N([C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N([C@H](C(=O)NC(C(=O)N1)CC(C)C)CC(C)C)C)C)CC2=CC(=C(C=C2)O)[N+](=O)[O-])CC(C)C)C)CC3=CN(C4=CC=CC=C43)C(C)(C)C=C	1	0	0	0
 BGC0001777	Escovopsis	shearinine D	Terpene	unk	[H][C@]12CC3=C(NC4=CC5=C(C=C34)[C@@H](O)[C@@]3([H])C5=CC(C)(C)OC3(C)C)[C@]1(C)[C@@]1(C)CC[C@@]34O[C@@]([H])(C(=O)C=C3[C@]1(O)CC2)C(C)(C)O4	2	0	0	0
 BGC0000130	Streptomyces	pyrrolomycin	Polyketide	unk	unk	1	0	0	0
@@ -1746,7 +1746,7 @@ BGC0000284	Azotobacter	phenolic lipids	Polyketide	unk	unk	0	0	0	0
 BGC0000323	Pseudomonas	cichofactin A	NRP	Antibacterial,Antifungal,Surfactant	O=C(N[C@@H](CC(C)C)C(N[C@@H](CC(C)C)C(N[C@@H](CCC(N)=O)C(N[C@@H](CC(C)C)C(N[C@@H](CCC(N)=O)C(N[C@@H](C(C)C)C(N[C@@H](CC(C)C)C(N[C@@H](CC(C)C)C(O)=O)=O)=O)=O)=O)=O)=O)=O)[C@H](CC1=CNC=N1)NC(CC(O)CCCCCCC)=O	0	1	1	0
 BGC0001397	Streptomyces	lidamycin	NRP	unk	unk	1	0	0	0
 BGC0001365	Claviceps	clapurines	NRP	unk	unk	2	0	0	0
-BGC0000533	Streptococcus	mutacin III	Lanthipeptide	unk	unk	1	0	0	0
+BGC0000533	Streptococcus	mutacin III	lantipeptide	unk	unk	1	0	0	0
 BGC0000802	Sinorhizobium	succinoglycan	Saccharide	unk	unk	0	0	0	0
 BGC0001127	Janthinobacterium	jagaricin	NRP	unk	unk	0	0	0	0
 BGC0001426	Myxococcus	Myxochromide A	NRP	Unknown	CN([C@H]1[C@@H](C)OC(=O)CC[C@H](NC(=O)[C@H](NC(=O)[C@H]2CCCN2C(=O)[C@H](CC(C)C)NC(=O)[C@@H](NC1=O)C)C)C(=O)N)C(=O)/C=C/C=C/C=C/C=C/C=C/C=C/C=C/C=C/C	0	0	0	0
@@ -1781,7 +1781,7 @@ BGC0000981	Aphanizomenon	cylindrospermopsin	NRP	unk	unk	0	0	0	0
 BGC0000873	Saccharothrix	A201A	Other	unk	unk	1	0	0	0
 BGC0001468	Streptomyces	Bicyclomycin	Other	Antibacterial	unk	1	1	0	0
 BGC0001745	Pleurocapsa	PlpA1	Other	unk	unk	0	0	0	0
-BGC0000504	Enterococcus	cytolysin ClyLl	Lanthipeptide	unk	unk	1	0	0	0
+BGC0000504	Enterococcus	cytolysin ClyLl	lantipeptide	unk	unk	1	0	0	0
 BGC0001412	Bacteroides	polysaccharide C	Saccharide	unk	unk	0	0	0	0
 BGC0001740	Streptomyces	phthoxazolin	NRP	unk	C\C(=C\C=C/C=C/CC1=CN=CO1)[C@@H](O)C(C)(C)C(N)=O	1	0	0	0
 BGC0000065	Streptomyces	galbonolide A	Polyketide	Antifungal	unk	1	0	1	0
