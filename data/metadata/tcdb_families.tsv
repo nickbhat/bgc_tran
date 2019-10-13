@@ -101,7 +101,7 @@ TCDB	Type	Description
 2.A.1.18	porter	The Polyol Porter (PP) Family
 2.A.1.19	porter	The Organic Cation Transporter (OCT) Family (The SLC22A family including OCT1-3, OCTN1-3 and OAT1-5 of H. sapiens)
 2.A.1.2	porter	The Drug:H+ Antiporter-1 (12 Spanner) (DHA1) Family
-2.A.1.20	porter	The Sugar Efflux Transporter (SET) Family
+2.A.1.20	efflux	The Sugar Efflux Transporter (SET) Family
 2.A.1.21	porter	The Drug:H+ Antiporter-3 (12 Spanner) (DHA3) Family
 2.A.1.22	porter	The Vesicular Neurotransmitter Transporter (VNT) Family (Related to the SP Family (TC #2.1.1))
 2.A.1.23	porter	The Conjugated Bile Salt Transporter (BST) Family
@@ -120,14 +120,14 @@ TCDB	Type	Description
 2.A.1.35	porter	The Fosmidomycin Resistance (Fsr) Family
 2.A.1.36	porter	The Acriflavin-sensitivity (YnfM) Family
 2.A.1.37	porter	The Unknown Major Facilitator-4 (UMF4) Family
-2.A.1.38	porter	The Enterobactin (Siderophore) Exporter (EntS) Family
-2.A.1.39	porter	The Vibrioferrin (Siderophore) Exporter (PrsC) Family
+2.A.1.38	export	The Enterobactin (Siderophore) Exporter (EntS) Family
+2.A.1.39	export	The Vibrioferrin (Siderophore) Exporter (PrsC) Family
 2.A.1.4	porter	The Organophosphate:Pi Antiporter (OPA) Family
 2.A.1.41	porter	The Putative Bacteriochlorophyll Delivery (BCD) Family
 2.A.1.42	porter	The Lysophospholipid Transporter (LplT) Family
 2.A.1.43	porter	The Putative Magnetosome Permease (PMP) Family
 2.A.1.44	porter	The L-Amino Acid Transporter-3 (LAT3) Family
-2.A.1.45	porter	The 2,4-diacetylphloroglucinol (PHL) Exporter (PHL-E) Family
+2.A.1.45	export	The 2,4-diacetylphloroglucinol (PHL) Exporter (PHL-E) Family
 2.A.1.46	porter	The Uncharacterized Major Facilitator-5 (UMF5) Family
 2.A.1.47	porter	The Unknown Major Facilitator-6 (UMF6) Family
 2.A.1.48	porter	The Vacuolar Basic Amino Acid Transporter (V-BAAT) Family
@@ -152,8 +152,8 @@ TCDB	Type	Description
 2.A.1.67	porter	The Unidentified Major Facilitator-16 (UMF16) Family
 2.A.1.68	porter	The Glucose Transporter (GT) Family
 2.A.1.7	porter	The Fucose: H+ Symporter (FHS) Family
-2.A.1.70	porter	The Arsenite/Antimonite Exporter (ArsK) Family
-2.A.1.71	porter	The Valanimycin-resistance (Val-R) Family
+2.A.1.70	export	The Arsenite/Antimonite Exporter (ArsK) Family
+2.A.1.71	export	The Valanimycin-resistance (Val-R) Family
 2.A.1.72	porter	The Uncharacterized Major Facilitator-20 (UMF20) Family
 2.A.1.73	porter	The Unidentified Major Facilitator-21 (UMF21) Family
 2.A.1.74	porter	The Uncharacterized Major Facilitator-22 (UMF22) Family
@@ -177,7 +177,7 @@ TCDB	Type	Description
 2.A.57	porter	The Equilibrative Nucleoside Transporter (ENT) Family
 2.A.60	porter	The Organo Anion Transporter (OAT) Family
 2.A.71	porter	The Folate-Biopterin Transporter (FBT) Family
-2.A.85	porter	The Aromatic Acid Exporter (ArAE) Family
+2.A.85	export	The Aromatic Acid Exporter (ArAE) Family
 2.A.100	porter	The Ferroportin (Fpn) Family
 2.A.125	porter	The Eukaryotic Riboflavin Transporter (E-RFT) Family
 4.D.2	other	The Glycosyl Transferase 2 (GT2) Family
@@ -188,7 +188,7 @@ TCDB	Type	Description
 2.A.3.10	porter	The Yeast Amino Acid Transporter (YAT) Family
 2.A.3.11	porter	The Aspartate/Glutamate Transporter (AGT) Family
 2.A.3.12	porter	The Polyamine:H+ Symporter (PHS) Family
-2.A.3.13	porter	The Amino Acid Efflux (AAE) Family
+2.A.3.13	efflux	The Amino Acid Efflux (AAE) Family
 2.A.3.14	porter	The Unknown APC-1 (U-APC1) Family
 2.A.3.15	porter	The Unknown APC-2 (U-APC2) Family
 2.A.3.2	porter	The Basic Amino Acid/Polyamine Antiporter (APA) Family
@@ -271,22 +271,22 @@ TCDB	Type	Description
 9.B.153	other	The Putative Beta-Barrel Porin/Alpha Amylase or Phenol_MetA-deg (BBP/AA) Family
 9.B.170	other	The DUF3187 Putative Porin (DUF3187) Family
 9.B.186	other	The Putative Lipoprotein Supressor of a ts bamD mutant, YiaD (YiaD) Family
-2.A.6.1	porter	The Heavy Metal Efflux (HME) Family
-2.A.6.2	porter	The (Largely Gram-negative Bacterial) Hydrophobe/Amphiphile Efflux-1 (HAE1) Family
-2.A.6.3	porter	The Putative Nodulation Factor Exporter (NFE) Family
-2.A.6.4	porter	The SecDF (SecDF) Family
-2.A.6.5	porter	The (Gram-positive Bacterial Putative) Hydrophobe/Amphiphile Efflux-2 (HAE2) Family
-2.A.6.6	porter	The Eukaryotic (Putative) Sterol Transporter (EST) Family
-2.A.6.7	porter	The (Largely Archaeal Putative) Hydrophobe/Amphiphile Efflux-3 (HAE3) Family
-2.A.6.8	porter	The Brominated, Aryl Polyene Pigment Exporter (APPE) Family
-2.A.6.9	porter	The Dispatched (Dispatched) Family
+2.A.6.1	efflux	The Heavy Metal Efflux (HME) Family
+2.A.6.2	efflux	The (Largely Gram-negative Bacterial) Hydrophobe/Amphiphile Efflux-1 (HAE1) Family
+2.A.6.3	efflux	The Putative Nodulation Factor Exporter (NFE) Family
+2.A.6.4	efflux	The SecDF (SecDF) Family
+2.A.6.5	efflux	The (Gram-positive Bacterial Putative) Hydrophobe/Amphiphile Efflux-2 (HAE2) Family
+2.A.6.6	efflux	The Eukaryotic (Putative) Sterol Transporter (EST) Family
+2.A.6.7	efflux	The (Largely Archaeal Putative) Hydrophobe/Amphiphile Efflux-3 (HAE3) Family
+2.A.6.8	efflux	The Brominated, Aryl Polyene Pigment Exporter (APPE) Family
+2.A.6.9	efflux	The Dispatched (Dispatched) Family
 2.A.8	porter	The Gluconate:H+ Symporter (GntP) Family
 2.A.11	porter	The Citrate-Mg2+:H+ (CitM) Citrate-Ca2+:H+ (CitH) Symporter (CitMHS) Family
 2.A.13	porter	The C4-Dicarboxylate Uptake (Dcu) Family
 2.A.14	porter	The Lactate Permease (LctP) Family
 2.A.34	porter	The NhaB Na+:H+ Antiporter (NhaB) Family
 2.A.35	porter	The NhaC Na+:H+ Antiporter (NhaC) Family
-2.A.45	porter	The Arsenite-Antimonite (ArsB) Efflux Family
+2.A.45	efflux	The Arsenite-Antimonite (ArsB) Efflux Family
 2.A.47	porter	The Divalent Anion:Na+ Symporter (DASS) Family
 2.A.56	porter	The Tripartite ATP-independent Periplasmic Transporter (TRAP-T) Family
 2.A.61	porter	The C4-dicarboxylate Uptake C (DcuC) Family
