@@ -1,24 +1,3 @@
-Name	Class	Mechanism
-kanamycin	aminoglycoside antibiotic	prot_synth
-spectinomycin	aminoglycoside antibiotic	prot_synth
-ribostamycin	aminoglycoside antibiotic	prot_synth
-gentamicin	aminoglycoside antibiotic	prot_synth
-neomycin	aminoglycoside antibiotic	prot_synth
-sisomicin	aminoglycoside antibiotic	prot_synth
-tobramycin	aminoglycoside antibiotic	prot_synth
-kanamycin	aminoglycoside antibiotic	prot_synth
-streptomycin	aminoglycoside antibiotic	prot_synth
-paromomycin	aminoglycoside antibiotic	prot_synth
-Apramycin	aminoglycoside antibiotic	prot_synth
-Puromycin	aminoglycoside antibiotic	prot_synth
-penicillin	beta-Lactam antibiotic	cell_wall_synth
-Thienamycin	beta-Lactam antibiotic	cell_wall_synth
-Teicoplanin	Glycopeptide antibiotic	cell_wall_synth
-Vancomycin	Glycopeptide antibiotic	cell_wall_synth
-Bleomycin	Glycopeptide antibiotic	dna_damage
-Avoparcin	Glycopeptide antibiotic	unk
-Chloroeremomycin	Glycopeptide antibiotic	unk
-Chlortetracycline	Tetracycline	tRNA_bind
-Oxytetracycline	Tetracycline	tRNA_bind
-Erythromycin	macrolide	prot_synth
-Midecamycin	macrolide	prot_synth
+version https://git-lfs.github.com/spec/v1
+oid sha256:158824f13581eb9f9d4c191bd51cc6d10e7756ac1fc187c5193a99c7838b9687
+size 1077
