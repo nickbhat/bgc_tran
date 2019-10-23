@@ -1,0 +1,2064 @@
+BGC	ABC_tran	BPD_transp_1	TonB_dep_Rec	ABC_membrane	ACR_tran	FecCD	ABC2_membrane	MatE	OEP	FtsX	MFS_3	MFS_1	ABC2_membrane_2	ABC2_membrane_3	ABC2_membrane_3	MacB_PCD	ABC2_membrane_4	MMPL	BPD_transp_2	Multi_Drug_Res	Order
+
+BGC0000001	2	2	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1,BPD_transp_1,BPD_transp_1,ABC_tran,ABC_tran
+
+BGC0000002	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran
+
+BGC0000004	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0000006	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0000007	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0000008	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0000009	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0000010	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0000019	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran,ABC_tran
+
+BGC0000020	1	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1,ABC_membrane,ABC_tran
+
+BGC0000022	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0000026	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran,ABC2_membrane
+
+BGC0000029	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0000030	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0000032	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	MMPL,MMPL
+
+BGC0000033	1	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	ABC2_membrane,ABC_tran,MFS_1
+
+BGC0000034	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran,ABC2_membrane
+
+BGC0000036	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0000038	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0000039	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0000042	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran,ABC2_membrane
+
+BGC0000045	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0000046	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0000048	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0000052	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC2_membrane,ABC_tran
+
+BGC0000053	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran,ABC2_membrane
+
+BGC0000060	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0000061	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran,ABC2_membrane
+
+BGC0000062	2	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran,ABC_membrane,ABC_tran
+
+BGC0000063	2	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran,ABC_membrane,ABC_tran
+
+BGC0000070	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0000074	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1,ABC_tran,FecCD
+
+BGC0000076	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0000077	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0000078	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC2_membrane,ABC_tran
+
+BGC0000079	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0000081	1	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	MFS_1,ABC_tran,MFS_1
+
+BGC0000082	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0000084	1	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	MFS_1,ABC_tran,MFS_1
+
+BGC0000085	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran,ABC_tran
+
+BGC0000086	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0000087	2	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	2	0	MFS_1,MFS_1,ABC_tran,ABC_tran,BPD_transp_2,BPD_transp_2
+
+BGC0000088	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	MFS_1,MFS_1
+
+BGC0000093	2	2	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	MFS_1,MFS_1,MFS_1,ABC_tran,BPD_transp_1,ABC_tran,BPD_transp_1
+
+BGC0000097	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0000098	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0000100	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0000105	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0000108	2	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran,ABC_membrane,ABC_tran
+
+BGC0000112	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0000115	2	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran,ABC_membrane,ABC_tran
+
+BGC0000116	2	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran,ABC_membrane,ABC_tran
+
+BGC0000120	2	0	0	0	0	0	2	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1,ABC_tran,ABC2_membrane,ABC_tran,ABC2_membrane
+
+BGC0000123	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	MFS_1,MFS_1
+
+BGC0000125	2	0	0	2	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	MFS_3,ABC_membrane,ABC_tran,ABC_membrane,ABC_tran
+
+BGC0000127	2	0	0	0	0	0	0	0	2	0	0	0	0	2	2	0	0	0	0	0	ABC_tran,ABC_tran,ABC2_membrane_3,ABC2_membrane_3,OEP,OEP
+
+BGC0000128	2	0	0	0	0	0	0	0	2	0	0	0	0	2	2	0	0	0	0	0	ABC_tran,ABC_tran,ABC2_membrane_3,ABC2_membrane_3,OEP,OEP
+
+BGC0000133	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	MacB_PCD,FtsX,ABC_tran
+
+BGC0000134	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0000135	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	BPD_transp_1,BPD_transp_1,ABC_tran
+
+BGC0000136	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	ABC_tran,MFS_1
+
+BGC0000140	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0000141	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran
+
+BGC0000142	1	0	0	0	0	0	0	0	0	2	0	1	0	0	0	2	0	0	0	0	MacB_PCD,FtsX,MacB_PCD,FtsX,ABC_tran,MFS_1
+
+BGC0000144	1	2	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	ABC_tran,BPD_transp_1,BPD_transp_1,MFS_1
+
+BGC0000150	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	MFS_1,MFS_1
+
+BGC0000151	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC2_membrane,ABC_tran
+
+BGC0000154	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0000158	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0000160	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0000161	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	MFS_1,MFS_1
+
+BGC0000162	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0000163	1	4	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	BPD_transp_1,BPD_transp_1,MFS_1,MFS_1,ABC_tran,BPD_transp_1,BPD_transp_1
+
+BGC0000165	1	2	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1,ABC_tran,BPD_transp_1,BPD_transp_1
+
+BGC0000168	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0000171	0	2	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	BPD_transp_1,BPD_transp_1,MFS_1
+
+BGC0000178	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0000179	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	MatE,MatE
+
+BGC0000180	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0000184	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	MatE,MatE,MatE,MatE
+
+BGC0000187	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	MFS_1,MFS_1,MFS_1
+
+BGC0000188	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	MatE,MatE,MatE,MatE
+
+BGC0000190	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	MFS_1,MFS_1
+
+BGC0000191	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran,ABC2_membrane
+
+BGC0000194	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	2	0	0	MFS_1,MMPL,MMPL,MFS_1
+
+BGC0000195	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	2	0	0	MFS_1,MMPL,MMPL
+
+BGC0000197	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0000198	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran,ABC2_membrane
+
+BGC0000199	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC2_membrane,ABC_tran
+
+BGC0000200	1	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1,ABC2_membrane,ABC_tran
+
+BGC0000201	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0000202	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	MFS_1,MFS_1,MFS_1
+
+BGC0000203	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	MFS_1,MFS_1,MFS_1
+
+BGC0000207	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	ABC_tran,MFS_1
+
+BGC0000208	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0000209	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	MFS_1,MFS_1
+
+BGC0000210	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC2_membrane,ABC_tran
+
+BGC0000212	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC2_membrane,ABC_tran
+
+BGC0000213	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0000214	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran
+
+BGC0000216	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0000219	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0000220	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0000221	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0000222	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0000223	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	MFS_1,MFS_3
+
+BGC0000224	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	MFS_1,MFS_1,MFS_1
+
+BGC0000225	2	2	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	BPD_transp_1,BPD_transp_1,ABC_tran,ABC_tran,MFS_1
+
+BGC0000226	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0000227	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0000229	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	MFS_1,MFS_1
+
+BGC0000230	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0000232	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0000233	2	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	ABC2_membrane,ABC_tran,MFS_1,ABC_tran
+
+BGC0000235	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	ABC_tran,MFS_1
+
+BGC0000236	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	MFS_3,MFS_1
+
+BGC0000237	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0000238	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0000239	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0000240	2	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	MFS_1,ABC2_membrane_4,ABC_tran,ABC_membrane,ABC_tran
+
+BGC0000241	2	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	MFS_1,ABC2_membrane_4,ABC_membrane,ABC_tran,ABC_tran
+
+BGC0000242	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0000243	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran
+
+BGC0000245	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0000247	1	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1,ABC_tran,ABC2_membrane
+
+BGC0000253	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0000256	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran,ABC2_membrane
+
+BGC0000257	1	0	0	0	0	0	0	0	0	2	0	0	0	0	0	2	0	0	0	0	MacB_PCD,FtsX,MacB_PCD,FtsX,ABC_tran
+
+BGC0000262	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	MFS_1,MFS_1,MFS_1
+
+BGC0000264	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0000266	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0000267	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	MFS_1,MFS_1
+
+BGC0000268	0	2	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	BPD_transp_1,BPD_transp_1,MFS_1,MFS_1,MFS_1
+
+BGC0000269	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0000270	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0000273	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	2	0	0	MFS_1,MMPL,MMPL
+
+BGC0000274	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran
+
+BGC0000275	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0000277	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0000279	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	2	0	0	MMPL,MMPL,MFS_1
+
+BGC0000280	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0000281	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0000283	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	MFS_1,MFS_1
+
+BGC0000285	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0000287	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	BPD_transp_1,ABC_tran
+
+BGC0000288	2	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran,ABC_membrane,ABC_tran
+
+BGC0000289	3	2	0	1	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	FtsX,FtsX,ABC_tran,ABC_membrane,ABC_tran,BPD_transp_1,ABC_tran,BPD_transp_1
+
+BGC0000290	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran
+
+BGC0000291	2	0	0	0	0	0	1	0	0	2	0	0	0	0	0	1	0	0	0	0	ABC_tran,FtsX,MacB_PCD,FtsX,ABC_tran,ABC2_membrane
+
+BGC0000292	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0000294	3	0	1	2	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran,TonB_dep_Rec,ABC_membrane,ABC_tran,ABC_membrane,ABC_tran,FecCD,FecCD
+
+BGC0000295	0	0	1	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	MFS_1,TonB_dep_Rec,MFS_1
+
+BGC0000296	3	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran,ABC2_membrane,ABC_tran,ABC2_membrane,ABC_tran
+
+BGC0000297	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane
+
+BGC0000298	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran
+
+BGC0000299	2	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	ABC_tran,ABC2_membrane_3,ABC_tran
+
+BGC0000300	0	0	0	0	0	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	MFS_3,FecCD,FecCD
+
+BGC0000301	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran
+
+BGC0000302	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran
+
+BGC0000303	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1,ABC_tran
+
+BGC0000304	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0000306	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran
+
+BGC0000310	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	ABC_tran,ABC2_membrane_4
+
+BGC0000311	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran
+
+BGC0000314	1	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	ABC_tran,ABC2_membrane_3
+
+BGC0000315	2	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran,ABC_membrane,ABC_tran
+
+BGC0000316	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	MFS_3
+
+BGC0000317	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	MFS_1,MFS_1
+
+BGC0000319	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0000320	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	ABC2_membrane_2,ABC_tran
+
+BGC0000321	2	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran,ABC_membrane,ABC_tran
+
+BGC0000323	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	ABC_tran,MacB_PCD,FtsX
+
+BGC0000324	2	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran,ABC_membrane,ABC_tran
+
+BGC0000325	3	0	0	2	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran,ABC_membrane,ABC_tran,ABC_tran,FecCD,FecCD
+
+BGC0000326	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran
+
+BGC0000327	2	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran,ABC_membrane,ABC_tran
+
+BGC0000329	1	0	0	0	1	0	0	0	2	1	0	0	0	0	0	1	0	0	0	0	ACR_tran,OEP,OEP,ABC_tran,MacB_PCD,FtsX
+
+BGC0000330	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	TonB_dep_Rec,ABC_membrane,ABC_tran
+
+BGC0000331	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran
+
+BGC0000332	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran
+
+BGC0000333	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran,ABC2_membrane
+
+BGC0000336	6	2	0	3	0	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran,ABC_membrane,ABC_tran,ABC_membrane,ABC_tran,ABC_tran,FecCD,MFS_1,ABC_tran,ABC_tran,ABC2_membrane,BPD_transp_1,BPD_transp_1
+
+BGC0000337	2	0	0	2	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran,ABC_membrane,ABC_tran,MFS_1
+
+BGC0000339	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran
+
+BGC0000340	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran,BPD_transp_1
+
+BGC0000341	2	2	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	BPD_transp_1,BPD_transp_1,ABC2_membrane_2,ABC_tran,ABC_membrane,ABC_tran
+
+BGC0000343	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0000344	2	2	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	BPD_transp_1,BPD_transp_1,ABC_tran,ABC_tran,MacB_PCD,FtsX
+
+BGC0000347	4	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran,ABC_tran,ABC_membrane,ABC_tran,ABC_membrane,ABC_tran
+
+BGC0000349	2	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran,ABC_membrane,ABC_tran
+
+BGC0000351	1	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_membrane,ABC_tran
+
+BGC0000352	0	0	1	0	0	0	0	2	0	0	0	1	0	0	0	0	0	0	0	0	MatE,MatE,MFS_1,TonB_dep_Rec
+
+BGC0000354	1	0	0	0	0	0	1	0	0	0	0	2	0	0	0	0	0	2	0	0	ABC2_membrane,MMPL,MMPL,MFS_1,MFS_1,ABC_tran
+
+BGC0000355	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0000360	2	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran,ABC_membrane,ABC_tran
+
+BGC0000361	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0000362	1	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	4	0	0	ABC2_membrane,ABC2_membrane,ABC_tran,MMPL,MMPL,MMPL,MMPL
+
+BGC0000363	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	MMPL,MMPL,MMPL,MMPL
+
+BGC0000364	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	MMPL,MMPL,MMPL,MMPL
+
+BGC0000365	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	MMPL,MMPL,MMPL,MMPL,MMPL,MMPL
+
+BGC0000366	1	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran,FecCD,FecCD
+
+BGC0000367	1	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	ACR_tran,ABC2_membrane,ABC_tran
+
+BGC0000368	1	0	0	0	0	2	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1,ABC_tran,FecCD,FecCD
+
+BGC0000369	1	0	0	1	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	MFS_1,MFS_1,ABC_membrane,ABC_tran
+
+BGC0000371	0	0	0	0	0	0	0	0	0	0	1	2	0	0	0	0	0	0	0	0	MFS_1,MFS_1,MFS_3
+
+BGC0000372	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0000373	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0000374	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran
+
+BGC0000375	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0000376	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0000378	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	MFS_1,MFS_1
+
+BGC0000379	2	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	2	0	0	ABC_tran,ABC_tran,ABC2_membrane,MMPL,MMPL
+
+BGC0000381	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran,BPD_transp_1,BPD_transp_1
+
+BGC0000383	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0000385	2	0	2	2	6	0	0	0	0	0	0	1	0	0	0	0	0	2	0	0	TonB_dep_Rec,ABC_membrane,ABC_tran,MFS_1,ACR_tran,TonB_dep_Rec,ACR_tran,ACR_tran,ACR_tran,ABC_membrane,ABC_tran,ACR_tran,ACR_tran,MMPL,MMPL
+
+BGC0000387	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	TonB_dep_Rec
+
+BGC0000388	1	2	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1,ABC_tran,BPD_transp_1,BPD_transp_1
+
+BGC0000392	1	0	0	0	0	2	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1,ABC_tran,FecCD,FecCD
+
+BGC0000394	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	ABC_tran,MFS_1
+
+BGC0000395	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0000397	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran
+
+BGC0000398	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	ABC_tran,MacB_PCD,FtsX
+
+BGC0000399	1	0	0	0	0	0	0	0	2	1	0	0	0	0	0	1	0	0	0	0	OEP,OEP,ABC_tran,MacB_PCD,FtsX
+
+BGC0000400	2	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran,ABC_membrane,ABC_tran
+
+BGC0000403	2	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran,ABC_membrane,ABC_tran
+
+BGC0000406	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	MFS_1,MFS_1
+
+BGC0000407	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	MatE,MatE
+
+BGC0000408	2	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran,ABC_membrane,ABC_tran
+
+BGC0000409	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1,ABC_tran
+
+BGC0000410	3	0	0	2	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran,ABC_membrane,ABC_tran,FecCD,FecCD,ABC_tran
+
+BGC0000411	1	0	0	0	0	0	0	0	2	1	0	0	0	0	0	1	0	0	0	0	OEP,OEP,ABC_tran,MacB_PCD,FtsX
+
+BGC0000412	2	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran,ABC_tran
+
+BGC0000413	4	1	1	2	0	1	0	0	4	1	0	3	0	0	0	1	0	0	0	0	ABC_membrane,ABC_tran,TonB_dep_Rec,MFS_1,MFS_1,OEP,OEP,ABC_membrane,ABC_tran,ABC_tran,MacB_PCD,FtsX,MFS_1,OEP,OEP,BPD_transp_1,ABC_tran,FecCD
+
+BGC0000414	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	MFS_3
+
+BGC0000415	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC2_membrane,ABC_tran
+
+BGC0000417	0	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	MFS_3,ABC2_membrane_3
+
+BGC0000418	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran
+
+BGC0000419	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran
+
+BGC0000420	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0000422	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0000423	3	0	0	2	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran,ABC_membrane,ABC_tran,FecCD,FecCD,ABC_tran
+
+BGC0000424	1	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	TonB_dep_Rec,ABC_tran,TonB_dep_Rec
+
+BGC0000425	2	0	0	1	0	0	0	0	2	1	0	0	0	0	0	1	0	0	0	0	OEP,OEP,ABC_membrane,ABC_tran,ABC_tran,MacB_PCD,FtsX
+
+BGC0000428	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran
+
+BGC0000429	1	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	2	Multi_Drug_Res,Multi_Drug_Res,ABC_tran,ABC2_membrane,ABC2_membrane
+
+BGC0000430	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran
+
+BGC0000431	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0000432	2	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran,ABC_membrane,ABC_tran
+
+BGC0000433	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran,BPD_transp_1
+
+BGC0000434	2	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran,ABC2_membrane,ABC_tran
+
+BGC0000435	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	ABC_tran,MacB_PCD,FtsX
+
+BGC0000436	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0000437	2	0	0	1	1	0	0	0	4	1	0	0	0	0	0	1	0	0	0	0	OEP,OEP,ABC_tran,MacB_PCD,FtsX,OEP,OEP,ACR_tran,ABC_membrane,ABC_tran
+
+BGC0000439	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC2_membrane,ABC_tran
+
+BGC0000440	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran
+
+BGC0000441	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran
+
+BGC0000443	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	MFS_3
+
+BGC0000445	2	0	0	0	0	0	1	0	0	0	0	3	0	0	0	0	0	0	0	0	ABC_tran,MFS_1,MFS_1,MFS_1,ABC2_membrane,ABC_tran
+
+BGC0000446	1	0	0	0	0	0	0	2	0	0	0	1	0	0	0	0	0	0	0	0	MatE,MatE,MFS_1,ABC_tran
+
+BGC0000447	2	0	0	1	0	0	0	0	2	1	0	0	0	0	0	1	0	0	0	0	OEP,OEP,ABC_tran,MacB_PCD,FtsX,ABC_membrane,ABC_tran
+
+BGC0000448	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran
+
+BGC0000449	2	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran,ABC_membrane,ABC_tran
+
+BGC0000450	2	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran,ABC_tran,ABC2_membrane
+
+BGC0000451	0	0	1	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	TonB_dep_Rec,ACR_tran,MFS_3
+
+BGC0000452	4	0	0	2	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran,ABC_membrane,ABC_tran,ABC_tran,ABC_tran,MFS_1
+
+BGC0000454	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	TonB_dep_Rec,MFS_3
+
+BGC0000455	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran
+
+BGC0000457	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	MatE,MatE
+
+BGC0000458	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	MFS_3
+
+BGC0000459	2	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	ABC_tran,ABC_tran,MFS_1,MFS_1
+
+BGC0000460	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	TonB_dep_Rec
+
+BGC0000461	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran,TonB_dep_Rec
+
+BGC0000463	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	ABC_tran,MacB_PCD,FtsX
+
+BGC0000464	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran
+
+BGC0000466	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0000468	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	MFS_3
+
+BGC0000469	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1,ABC_tran
+
+BGC0000470	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0000484	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran
+
+BGC0000486	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran
+
+BGC0000487	2	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	ABC_tran,MacB_PCD,FtsX,ABC_tran
+
+BGC0000488	2	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	ABC_tran,MacB_PCD,FtsX,ABC_tran
+
+BGC0000489	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran
+
+BGC0000490	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran
+
+BGC0000491	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran
+
+BGC0000494	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran
+
+BGC0000495	2	2	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	1	0	BPD_transp_2,ABC_tran,BPD_transp_1,BPD_transp_1,FtsX,FtsX,ABC_tran
+
+BGC0000496	2	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran,ABC_membrane,ABC_tran
+
+BGC0000497	2	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran,ABC_membrane,ABC_tran
+
+BGC0000498	2	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	ABC_membrane,ABC_tran,ABC_tran,ABC2_membrane_4
+
+BGC0000499	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	ABC2_membrane_4,ABC2_membrane_4
+
+BGC0000500	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran
+
+BGC0000501	2	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran,ABC_tran
+
+BGC0000502	2	0	0	1	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	ABC2_membrane_3,ABC_tran,ABC_membrane,ABC_tran
+
+BGC0000503	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran,ABC2_membrane
+
+BGC0000504	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran
+
+BGC0000506	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	ABC_tran,ABC_tran,ABC2_membrane_4
+
+BGC0000508	1	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran,ABC_membrane
+
+BGC0000509	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	ABC2_membrane_4,ABC_membrane,ABC_tran
+
+BGC0000511	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	ABC2_membrane_4,ABC_tran,ABC_tran
+
+BGC0000513	2	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran,ABC_tran
+
+BGC0000514	2	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	ABC2_membrane_4,ABC_tran,ABC_membrane,ABC_tran
+
+BGC0000515	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	ABC_tran,ABC_tran,ABC2_membrane_4,ABC2_membrane_4
+
+BGC0000516	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran
+
+BGC0000517	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran
+
+BGC0000518	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran
+
+BGC0000519	2	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran,ABC_tran
+
+BGC0000521	2	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	ABC_membrane,ABC_tran,ABC_tran,ABC2_membrane_4,ABC2_membrane_4
+
+BGC0000522	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran
+
+BGC0000523	2	0	0	1	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	ABC_membrane,ABC_tran,ABC2_membrane_3,ABC_tran
+
+BGC0000526	2	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	ABC_tran,ABC2_membrane_4,ABC2_membrane_4,ABC_membrane,ABC_tran
+
+BGC0000527	2	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	ABC_membrane,ABC_tran,ABC_tran,ABC2_membrane_4,ABC2_membrane_4
+
+BGC0000528	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	ABC2_membrane_4,ABC2_membrane_4,ABC_tran
+
+BGC0000529	3	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran,ABC2_membrane,ABC_tran,ABC_tran
+
+BGC0000530	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran
+
+BGC0000531	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane
+
+BGC0000533	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran
+
+BGC0000534	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran
+
+BGC0000535	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran,ABC_tran
+
+BGC0000536	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran,ABC_tran
+
+BGC0000537	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran,ABC_tran
+
+BGC0000538	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran
+
+BGC0000539	2	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	ABC_membrane,ABC_tran,ABC_tran,ABC2_membrane_4,ABC2_membrane_4
+
+BGC0000540	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran
+
+BGC0000541	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	ABC_tran,ABC2_membrane_4,ABC_tran
+
+BGC0000542	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	ABC_tran,ABC2_membrane_4,ABC_tran
+
+BGC0000543	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran
+
+BGC0000544	3	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	ABC2_membrane_4,ABC_tran,ABC2_membrane,ABC_tran,ABC_tran
+
+BGC0000545	2	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	ABC_membrane,ABC_tran,ABC2_membrane_4,ABC2_membrane_4,ABC_tran
+
+BGC0000546	3	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran,ABC_membrane,ABC_tran,ABC_tran
+
+BGC0000547	2	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	ABC2_membrane_4,ABC_membrane,ABC_tran,ABC_tran,ABC2_membrane_4
+
+BGC0000548	2	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran,ABC_tran
+
+BGC0000549	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran,ABC_tran
+
+BGC0000551	2	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran,ABC_tran
+
+BGC0000552	2	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran,ABC_membrane,ABC_tran
+
+BGC0000553	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran
+
+BGC0000554	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran
+
+BGC0000555	2	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran,ABC_tran
+
+BGC0000556	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran,ABC_tran
+
+BGC0000557	2	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	ABC_membrane,ABC_tran,ABC_tran,ABC2_membrane_4
+
+BGC0000558	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran
+
+BGC0000559	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	ABC_tran,ABC_tran,ABC2_membrane_4
+
+BGC0000560	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran
+
+BGC0000561	2	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	ABC_membrane,ABC_tran,ABC_tran,ABC2_membrane_4
+
+BGC0000563	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran,ABC2_membrane
+
+BGC0000564	1	0	0	0	0	0	0	0	0	0	0	0	0	2	2	0	0	0	0	0	ABC_tran,ABC2_membrane_3,ABC2_membrane_3
+
+BGC0000565	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran,ABC_tran
+
+BGC0000566	1	0	0	0	0	0	0	0	0	0	0	0	0	2	2	0	0	0	0	0	ABC_tran,ABC2_membrane_3,ABC2_membrane_3
+
+BGC0000568	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran
+
+BGC0000569	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran,ABC2_membrane
+
+BGC0000571	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran
+
+BGC0000572	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran
+
+BGC0000573	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	TonB_dep_Rec
+
+BGC0000575	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran
+
+BGC0000576	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	TonB_dep_Rec
+
+BGC0000577	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	TonB_dep_Rec
+
+BGC0000578	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran
+
+BGC0000579	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran,ABC2_membrane
+
+BGC0000581	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran
+
+BGC0000582	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran
+
+BGC0000583	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran,ABC_tran
+
+BGC0000584	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran
+
+BGC0000585	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0000586	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran
+
+BGC0000587	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran
+
+BGC0000588	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran
+
+BGC0000589	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran
+
+BGC0000590	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran
+
+BGC0000592	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran
+
+BGC0000594	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran
+
+BGC0000599	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran
+
+BGC0000600	2	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran,ABC_membrane,ABC_tran
+
+BGC0000601	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran
+
+BGC0000602	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran
+
+BGC0000603	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0000605	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran,ABC2_membrane
+
+BGC0000611	1	0	0	0	0	0	0	0	0	2	0	0	0	0	0	2	0	0	0	0	ABC_tran,MacB_PCD,FtsX,MacB_PCD,FtsX
+
+BGC0000612	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran,ABC_tran
+
+BGC0000616	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran
+
+BGC0000617	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran
+
+BGC0000619	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran
+
+BGC0000620	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran
+
+BGC0000623	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran
+
+BGC0000624	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran
+
+BGC0000626	2	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	ABC_membrane,ABC_tran,ABC_tran,ABC2_membrane_4
+
+BGC0000627	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0000634	1	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	ABC2_membrane_3,ABC_tran
+
+BGC0000637	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	MMPL,MMPL
+
+BGC0000643	1	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	ABC_tran,ABC2_membrane_3
+
+BGC0000651	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC2_membrane,ABC_tran
+
+BGC0000652	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	MFS_1,MFS_1,MFS_1
+
+BGC0000653	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0000655	1	0	0	0	0	0	0	0	0	2	0	0	0	0	0	2	0	0	0	0	ABC_tran,MacB_PCD,FtsX,MacB_PCD,FtsX
+
+BGC0000662	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	MFS_1,MFS_1
+
+BGC0000676	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0000678	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0000679	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	MMPL,MMPL,ABC_membrane,ABC_tran
+
+BGC0000688	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0000689	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0000690	1	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran,ABC_membrane
+
+BGC0000691	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	BPD_transp_1,BPD_transp_1,ABC_tran
+
+BGC0000692	2	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran,ABC_membrane,ABC_tran
+
+BGC0000693	1	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran,ABC_membrane
+
+BGC0000695	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0000696	1	0	0	0	0	0	1	0	0	0	0	2	0	0	0	0	0	0	0	0	MFS_1,MFS_1,ABC_tran,ABC2_membrane
+
+BGC0000698	2	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	MFS_3,ABC_tran,ABC_tran
+
+BGC0000699	3	0	0	2	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran,FecCD,ABC_tran,ABC_membrane,ABC_tran
+
+BGC0000700	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0000702	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	ABC_tran,MFS_1
+
+BGC0000703	7	2	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	2	0	ABC_tran,ABC_tran,ABC_tran,ABC_tran,BPD_transp_1,BPD_transp_1,MFS_1,FecCD,ABC_tran,ABC_tran,ABC_tran,BPD_transp_2,BPD_transp_2
+
+BGC0000704	3	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	2	0	MFS_1,MFS_1,ABC_tran,ABC_tran,ABC_tran,BPD_transp_2,BPD_transp_2
+
+BGC0000705	3	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	2	0	ABC_tran,ABC_tran,MFS_1,BPD_transp_2,BPD_transp_2,ABC_tran,MFS_1
+
+BGC0000706	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran
+
+BGC0000708	3	0	0	2	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran,ABC_membrane,ABC_tran,ABC_tran,FecCD,FecCD
+
+BGC0000709	2	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran,ABC_membrane,ABC_tran
+
+BGC0000711	2	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran,ABC_membrane,ABC_tran
+
+BGC0000712	2	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran,ABC_membrane,ABC_tran
+
+BGC0000713	2	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran,ABC_membrane,ABC_tran
+
+BGC0000714	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	MFS_1,MFS_1
+
+BGC0000715	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0000716	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	MFS_3
+
+BGC0000719	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0000720	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0000721	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0000722	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0000723	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0000724	2	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran,ABC_membrane,ABC_tran
+
+BGC0000734	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran,ABC2_membrane
+
+BGC0000735	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran,ABC2_membrane
+
+BGC0000736	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran,ABC2_membrane
+
+BGC0000758	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0000759	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran
+
+BGC0000762	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran
+
+BGC0000768	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran,TonB_dep_Rec
+
+BGC0000772	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC2_membrane,ABC_tran
+
+BGC0000774	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran,ABC2_membrane
+
+BGC0000775	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran,ABC2_membrane
+
+BGC0000782	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC2_membrane,ABC_tran
+
+BGC0000783	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC2_membrane,ABC_tran
+
+BGC0000785	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC2_membrane,ABC_tran
+
+BGC0000792	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC2_membrane,ABC_tran
+
+BGC0000794	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC2_membrane,ABC_tran
+
+BGC0000795	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC2_membrane,ABC_tran
+
+BGC0000796	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC2_membrane,ABC_tran
+
+BGC0000797	1	0	0	1	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran,MatE,MatE
+
+BGC0000801	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran
+
+BGC0000802	2	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran,ABC_tran
+
+BGC0000804	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran,BPD_transp_1,BPD_transp_1
+
+BGC0000806	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0000807	1	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	ABC_tran,ABC2_membrane,MFS_1
+
+BGC0000809	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0000814	4	2	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	ABC_tran,ABC_tran,BPD_transp_1,BPD_transp_1,ABC_tran,ABC_tran,MFS_1
+
+BGC0000818	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0000821	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0000822	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0000833	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0000836	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	MMPL
+
+BGC0000837	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	MMPL,MMPL
+
+BGC0000838	1	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	2	0	0	ABC2_membrane_3,ABC_tran,MMPL,MMPL
+
+BGC0000839	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	MMPL,MMPL
+
+BGC0000840	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	MMPL
+
+BGC0000842	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0000846	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0000847	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0000862	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	TonB_dep_Rec
+
+BGC0000872	2	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran,ABC_membrane,ABC_tran
+
+BGC0000873	2	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	MFS_3,ABC_tran,ABC_tran,MFS_1
+
+BGC0000874	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	ABC_tran,MFS_1
+
+BGC0000877	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0000880	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC2_membrane,ABC_tran
+
+BGC0000882	2	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1,ABC_tran,ABC_tran
+
+BGC0000883	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	MFS_1,MFS_1
+
+BGC0000885	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0000887	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	MatE,MatE
+
+BGC0000888	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0000889	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0000892	0	0	0	0	0	0	0	0	2	0	0	1	0	0	0	0	0	0	0	0	OEP,OEP,MFS_1
+
+BGC0000893	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0000897	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0000903	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0000907	2	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1,ABC_tran,ABC_tran
+
+BGC0000908	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0000914	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0000915	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0000916	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	BPD_transp_1,ABC_tran
+
+BGC0000925	0	0	1	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	MFS_1,MFS_1,TonB_dep_Rec
+
+BGC0000926	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0000928	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	MatE,MatE,MatE,MatE
+
+BGC0000930	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0000932	2	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran,ABC_tran,BPD_transp_1
+
+BGC0000934	2	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran,ABC_membrane,ABC_tran
+
+BGC0000935	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0000937	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0000938	1	2	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	MFS_1,MFS_1,ABC_tran,BPD_transp_1,BPD_transp_1
+
+BGC0000939	1	0	1	0	0	2	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1,ABC_tran,FecCD,FecCD,TonB_dep_Rec
+
+BGC0000943	0	0	0	0	0	2	0	0	0	0	0	1	0	0	0	0	0	0	0	0	FecCD,FecCD,MFS_1
+
+BGC0000944	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	MFS_3
+
+BGC0000946	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0000947	1	0	2	0	0	2	0	0	0	0	0	2	0	0	0	0	0	0	0	0	FecCD,ABC_tran,MFS_1,MFS_1,TonB_dep_Rec,TonB_dep_Rec,FecCD
+
+BGC0000949	3	0	0	2	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran,ABC_membrane,ABC_tran,ABC_tran,MFS_1
+
+BGC0000950	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	MFS_3
+
+BGC0000951	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	MFS_3
+
+BGC0000953	2	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	ABC_tran,ABC_tran,MFS_1
+
+BGC0000955	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0000956	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0000959	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0000960	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0000961	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0000965	1	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	2	0	0	MFS_1,MFS_1,MMPL,MMPL,ABC_tran
+
+BGC0000966	2	0	0	2	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1,ABC_membrane,ABC_tran,ABC_membrane,ABC_tran
+
+BGC0000967	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran
+
+BGC0000972	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	MatE,MatE
+
+BGC0000973	3	0	0	2	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran,ABC_membrane,ABC_tran,FecCD,ABC_tran
+
+BGC0000977	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0000978	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	MatE,MatE
+
+BGC0000981	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	MatE,MatE,MatE
+
+BGC0000992	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0000997	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0000998	1	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC2_membrane,ABC2_membrane,ABC_tran
+
+BGC0001003	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0001004	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	MFS_1,MFS_1
+
+BGC0001005	2	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	ABC_tran,FtsX,ACR_tran,ABC_tran
+
+BGC0001008	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0001009	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran
+
+BGC0001010	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran
+
+BGC0001011	0	2	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	BPD_transp_1,BPD_transp_1,MFS_1,MFS_1
+
+BGC0001014	2	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	TonB_dep_Rec,ABC_membrane,ABC_tran,ABC_membrane,ABC_tran
+
+BGC0001015	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran
+
+BGC0001016	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran
+
+BGC0001017	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran
+
+BGC0001018	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran
+
+BGC0001019	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0001020	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	ABC_tran,MFS_1
+
+BGC0001026	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0001028	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran
+
+BGC0001033	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran
+
+BGC0001035	2	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran,ABC_membrane,ABC_tran
+
+BGC0001036	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran,ABC2_membrane
+
+BGC0001038	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0001040	1	0	0	0	0	0	0	0	0	2	0	2	0	0	0	0	0	0	0	0	MFS_1,MFS_1,ABC_tran,FtsX,FtsX
+
+BGC0001044	2	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran,ABC_membrane,ABC_tran
+
+BGC0001046	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0001047	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0001048	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran
+
+BGC0001051	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	BPD_transp_2,BPD_transp_2,ABC_tran,ABC_tran
+
+BGC0001052	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0001055	2	0	1	2	0	0	0	2	0	0	0	1	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran,ABC_membrane,ABC_tran,TonB_dep_Rec,MFS_1,MatE,MatE
+
+BGC0001056	2	0	0	0	0	0	0	0	0	1	0	0	0	1	1	1	0	0	0	0	ABC_tran,ABC2_membrane_3,ABC_tran,MacB_PCD,FtsX
+
+BGC0001057	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0001058	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran
+
+BGC0001059	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	ABC_tran,MFS_1
+
+BGC0001060	2	0	0	0	0	0	1	0	0	0	0	0	2	0	0	0	0	0	0	0	ABC2_membrane,ABC_tran,ABC2_membrane_2,ABC_tran,ABC2_membrane_2
+
+BGC0001061	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC2_membrane,ABC_tran
+
+BGC0001062	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	MFS_1,MFS_1
+
+BGC0001065	2	4	0	0	0	2	0	0	0	0	0	4	0	0	0	0	0	2	0	0	BPD_transp_1,BPD_transp_1,ABC_tran,MFS_1,MFS_1,ABC_tran,FecCD,FecCD,BPD_transp_1,BPD_transp_1,MFS_1,MFS_1,MMPL,MMPL
+
+BGC0001070	0	0	0	0	0	0	0	0	0	0	1	4	0	0	0	0	0	0	0	0	MFS_1,MFS_1,MFS_1,MFS_3,MFS_1
+
+BGC0001071	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	MatE,MatE
+
+BGC0001072	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0001073	1	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	ABC_tran,ABC2_membrane,MFS_1
+
+BGC0001074	2	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran,ABC2_membrane,ABC_tran
+
+BGC0001075	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0001076	2	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran,ABC_membrane,ABC_tran
+
+BGC0001079	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	MFS_1,MFS_1,MFS_1,MFS_1
+
+BGC0001083	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	MFS_1,MFS_1
+
+BGC0001084	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0001088	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0001093	0	2	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1,BPD_transp_1,BPD_transp_1
+
+BGC0001094	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	MatE,MatE
+
+BGC0001100	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran,ABC_tran,ABC_tran,ABC_tran
+
+BGC0001101	6	2	0	0	0	0	0	0	0	0	1	2	0	0	0	0	0	0	0	0	MFS_3,ABC_tran,ABC_tran,BPD_transp_1,BPD_transp_1,MFS_1,ABC_tran,ABC_tran,ABC_tran,ABC_tran,MFS_1
+
+BGC0001106	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0001111	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran,ABC_tran
+
+BGC0001116	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran,ABC_tran
+
+BGC0001117	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran,ABC2_membrane
+
+BGC0001118	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0001119	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0001120	4	2	0	0	1	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	ABC_tran,ABC_tran,ABC_tran,BPD_transp_1,BPD_transp_1,OEP,OEP,ACR_tran,ABC_tran
+
+BGC0001122	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0001123	1	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1,ABC_membrane,ABC_tran
+
+BGC0001125	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran
+
+BGC0001126	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	FtsX
+
+BGC0001127	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran
+
+BGC0001130	1	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	ABC_tran,ABC2_membrane_3
+
+BGC0001131	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0001133	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran,ABC_tran
+
+BGC0001138	2	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	ABC_tran,ABC_tran,MFS_3
+
+BGC0001140	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0001142	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0001143	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0001148	2	0	0	2	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	MFS_3,ABC_membrane,ABC_tran,ABC_membrane,ABC_tran
+
+BGC0001149	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	OEP,OEP
+
+BGC0001150	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0001151	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0001153	2	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran,ABC_membrane,ABC_tran
+
+BGC0001154	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0001156	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0001157	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	MFS_3
+
+BGC0001159	1	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC2_membrane,ABC2_membrane,ABC_tran
+
+BGC0001170	1	0	0	0	0	0	0	0	0	0	0	0	0	2	2	0	0	0	0	0	ABC_tran,ABC2_membrane_3,ABC2_membrane_3
+
+BGC0001171	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran,ABC2_membrane
+
+BGC0001172	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0001173	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran,ABC2_membrane
+
+BGC0001176	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran
+
+BGC0001177	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	MFS_3
+
+BGC0001178	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran
+
+BGC0001179	1	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1,ABC_tran,BPD_transp_1
+
+BGC0001183	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	MatE,MFS_1
+
+BGC0001184	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	MFS_1,MFS_1
+
+BGC0001188	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran
+
+BGC0001189	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran,TonB_dep_Rec
+
+BGC0001190	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	MFS_1,MFS_1
+
+BGC0001192	2	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran,ABC_membrane,ABC_tran
+
+BGC0001193	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	MFS_1,MFS_1
+
+BGC0001194	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0001196	3	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	1	0	MacB_PCD,FtsX,ABC_tran,ABC_tran,ABC_tran,BPD_transp_2
+
+BGC0001199	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0001200	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	MFS_1,ABC_tran,BPD_transp_2
+
+BGC0001205	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	MFS_1,MFS_1
+
+BGC0001207	1	0	0	1	1	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	OEP,OEP,ACR_tran,ABC_membrane,ABC_tran
+
+BGC0001210	2	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	ABC_tran,ABC2_membrane_4,ABC2_membrane_4,ABC_membrane,ABC_tran
+
+BGC0001211	2	0	0	2	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	FecCD,ABC_membrane,ABC_tran,ABC_membrane,ABC_tran,FecCD
+
+BGC0001213	2	0	0	2	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1,ABC_membrane,ABC_tran,ABC_membrane,ABC_tran
+
+BGC0001214	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran,ABC_tran
+
+BGC0001221	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0001222	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran
+
+BGC0001228	2	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran,ABC2_membrane,ABC_tran
+
+BGC0001229	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran
+
+BGC0001231	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	MFS_1,MFS_1
+
+BGC0001233	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran
+
+BGC0001246	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0001255	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0001277	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0001278	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0001281	2	0	0	2	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran,ABC_membrane,ABC_tran,MFS_1
+
+BGC0001283	1	2	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1,BPD_transp_1,BPD_transp_1,ABC_tran
+
+BGC0001286	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0001288	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	ABC_tran,MFS_1
+
+BGC0001289	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran
+
+BGC0001291	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran
+
+BGC0001292	2	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran,ABC_membrane,ABC_tran
+
+BGC0001295	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	MFS_1,MFS_3
+
+BGC0001297	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC2_membrane,ABC_tran
+
+BGC0001298	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0001299	2	0	0	0	0	0	0	0	0	1	0	0	0	1	1	2	0	0	0	0	ABC_tran,ABC2_membrane_3,MacB_PCD,FtsX,MacB_PCD,ABC_tran
+
+BGC0001300	1	0	0	0	0	0	0	0	0	0	0	1	0	1	1	0	0	0	0	0	ABC_tran,ABC2_membrane_3,MFS_1
+
+BGC0001301	1	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1,ABC_tran,ABC2_membrane
+
+BGC0001302	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	MFS_1,MFS_1
+
+BGC0001303	2	0	0	0	0	0	1	0	0	2	0	1	0	0	0	0	0	0	0	0	MFS_1,ABC_tran,FtsX,FtsX,ABC_tran,ABC2_membrane
+
+BGC0001305	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0001306	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0001311	2	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	ABC_membrane,ABC_tran,ABC2_membrane_4,ABC_tran
+
+BGC0001312	1	0	1	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	TonB_dep_Rec,ABC_tran,MacB_PCD,FtsX
+
+BGC0001327	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran
+
+BGC0001328	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran
+
+BGC0001329	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran
+
+BGC0001330	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	ABC_tran,MMPL,MMPL
+
+BGC0001331	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	MMPL,ABC_tran
+
+BGC0001335	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	MMPL,MMPL
+
+BGC0001336	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	MFS_1,MFS_1,MFS_1,MFS_1
+
+BGC0001338	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0001339	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	MFS_1,MFS_1,MFS_1,MFS_1
+
+BGC0001340	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	MFS_1,MFS_1
+
+BGC0001341	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran
+
+BGC0001343	1	0	0	0	0	0	0	0	0	2	0	0	0	0	0	1	0	0	0	0	ABC_tran,MacB_PCD,FtsX,FtsX
+
+BGC0001345	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	MFS_1,MFS_1
+
+BGC0001346	1	0	0	0	0	0	0	0	2	1	0	0	0	0	0	1	0	0	0	0	OEP,OEP,ABC_tran,MacB_PCD,FtsX
+
+BGC0001349	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0001356	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran
+
+BGC0001358	2	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran,ABC_membrane,ABC_tran
+
+BGC0001362	2	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran,ABC_tran,BPD_transp_1
+
+BGC0001363	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran
+
+BGC0001364	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC2_membrane,ABC_tran
+
+BGC0001365	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0001366	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0001368	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0001369	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	MMPL,MMPL
+
+BGC0001370	2	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran,ABC_tran
+
+BGC0001371	2	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran,ABC_membrane,ABC_tran
+
+BGC0001373	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0001377	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	MFS_1,MFS_1
+
+BGC0001378	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	MFS_1,MFS_1
+
+BGC0001379	2	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran,ABC_membrane,ABC_tran
+
+BGC0001381	1	0	0	0	0	0	2	0	0	0	0	1	0	0	0	0	0	0	0	0	ABC2_membrane,ABC_tran,ABC2_membrane,MFS_1
+
+BGC0001384	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	MFS_1,MFS_1,MFS_1,MFS_1
+
+BGC0001387	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0001388	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran
+
+BGC0001389	1	0	0	0	1	0	0	0	2	1	0	0	0	0	0	1	0	0	0	0	OEP,OEP,ABC_tran,MacB_PCD,FtsX,ACR_tran
+
+BGC0001391	2	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran,ABC_tran
+
+BGC0001392	2	0	1	1	0	0	0	0	2	0	0	2	2	0	0	0	0	0	0	0	ABC_membrane,ABC_tran,OEP,OEP,MFS_1,MFS_1,ABC_tran,ABC2_membrane_2,ABC2_membrane_2,TonB_dep_Rec
+
+BGC0001393	2	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	ABC_tran,ABC2_membrane_3,ABC_tran
+
+BGC0001395	3	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran,ABC_tran,ABC_membrane,ABC_tran
+
+BGC0001397	1	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	2	0	0	ABC_tran,MFS_1,MFS_1,MMPL,MMPL
+
+BGC0001399	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0001402	2	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran,ABC_membrane,ABC_tran
+
+BGC0001404	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0001405	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	MFS_1,MFS_1
+
+BGC0001406	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	BPD_transp_1,ABC_tran,BPD_transp_1
+
+BGC0001407	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran
+
+BGC0001408	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1,TonB_dep_Rec
+
+BGC0001409	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran,ABC2_membrane
+
+BGC0001412	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	TonB_dep_Rec
+
+BGC0001413	1	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	FtsX,FtsX,ABC_tran
+
+BGC0001415	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0001416	1	0	0	1	0	0	0	0	2	0	0	1	0	0	0	0	0	0	0	0	OEP,OEP,ABC_membrane,ABC_tran,MFS_1
+
+BGC0001418	2	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	ABC_tran,ABC_tran,FtsX,FtsX
+
+BGC0001419	2	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	ABC_tran,ABC_tran,FtsX,FtsX
+
+BGC0001421	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran,ABC_tran
+
+BGC0001422	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran,ABC_tran
+
+BGC0001423	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran,ABC_tran
+
+BGC0001424	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran,ABC_tran
+
+BGC0001425	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran,ABC_tran
+
+BGC0001426	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran,ABC_tran
+
+BGC0001427	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran,ABC_tran
+
+BGC0001428	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran,ABC_tran
+
+BGC0001429	2	0	0	0	0	0	0	0	0	4	0	0	0	0	0	4	0	0	0	0	MacB_PCD,FtsX,MacB_PCD,FtsX,MacB_PCD,FtsX,MacB_PCD,FtsX,ABC_tran,ABC_tran
+
+BGC0001431	2	0	0	0	0	0	0	0	0	4	0	0	0	0	0	4	0	0	0	0	MacB_PCD,FtsX,MacB_PCD,FtsX,MacB_PCD,FtsX,MacB_PCD,FtsX,ABC_tran,ABC_tran
+
+BGC0001436	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	MFS_1,MFS_1,MFS_1
+
+BGC0001438	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	MFS_1,MFS_1
+
+BGC0001439	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0001440	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0001441	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0001442	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	MFS_1,MFS_1
+
+BGC0001443	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0001445	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0001446	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	MFS_1,MFS_1
+
+BGC0001447	2	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran,ABC_tran,ABC2_membrane
+
+BGC0001448	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran,ABC2_membrane
+
+BGC0001449	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0001452	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran,ABC2_membrane
+
+BGC0001459	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran
+
+BGC0001460	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran
+
+BGC0001461	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran
+
+BGC0001462	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran
+
+BGC0001468	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0001476	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	MFS_1,MFS_1
+
+BGC0001480	0	0	0	0	0	0	0	0	2	0	0	1	0	0	0	0	0	0	0	0	OEP,OEP,MFS_1
+
+BGC0001483	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	2	0	0	0	0	MacB_PCD,FtsX,MacB_PCD,FtsX
+
+BGC0001484	2	0	0	2	0	0	0	0	0	0	0	1	0	0	0	0	0	0	2	0	ABC_membrane,ABC_tran,ABC_membrane,ABC_tran,BPD_transp_2,BPD_transp_2,MFS_1
+
+BGC0001485	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0001486	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	MFS_1,MFS_1
+
+BGC0001491	2	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran,ABC_membrane,ABC_tran
+
+BGC0001492	2	2	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	BPD_transp_1,BPD_transp_1,ABC_tran,ABC_tran,MFS_1
+
+BGC0001494	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran
+
+BGC0001496	2	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran,ABC_tran
+
+BGC0001497	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	MFS_1,MFS_1
+
+BGC0001498	1	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	TonB_dep_Rec,MFS_1,ABC_tran
+
+BGC0001499	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1,TonB_dep_Rec
+
+BGC0001500	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0001501	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	FtsX
+
+BGC0001503	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0001508	2	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran,ABC2_membrane,ABC_tran,ABC2_membrane
+
+BGC0001509	1	0	0	0	0	0	0	0	2	1	0	0	0	0	0	1	0	0	0	0	ABC_tran,MacB_PCD,FtsX,OEP,OEP
+
+BGC0001511	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran
+
+BGC0001512	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	MFS_1,MFS_1
+
+BGC0001514	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran
+
+BGC0001515	2	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1,ABC_tran,ABC_membrane,ABC_tran
+
+BGC0001516	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0001518	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0001519	1	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1,ABC_tran,ABC2_membrane
+
+BGC0001520	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	MatE,MatE,MatE,MatE
+
+BGC0001522	3	0	0	0	0	0	1	0	0	2	0	1	0	0	0	0	0	0	0	0	ABC_tran,ABC2_membrane,FtsX,FtsX,ABC_tran,MFS_1,ABC_tran
+
+BGC0001524	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran
+
+BGC0001525	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	FtsX,ABC_tran
+
+BGC0001526	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	FtsX,ABC_tran
+
+BGC0001530	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0001531	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0001532	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran
+
+BGC0001536	2	0	0	2	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran,ABC_membrane,ABC_tran,MFS_1
+
+BGC0001537	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0001538	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0001540	2	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran,ABC2_membrane,ABC_tran
+
+BGC0001541	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	MFS_1,MFS_1
+
+BGC0001542	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0001543	2	2	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	BPD_transp_1,BPD_transp_1,ABC_tran,ABC_tran,MFS_1
+
+BGC0001546	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0001549	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran
+
+BGC0001550	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran
+
+BGC0001551	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran
+
+BGC0001552	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran
+
+BGC0001553	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	BPD_transp_1,ABC_tran,BPD_transp_1
+
+BGC0001555	5	0	2	3	0	2	0	0	2	1	0	1	0	0	0	1	0	0	0	0	ABC_membrane,ABC_tran,ABC_membrane,ABC_tran,MFS_1,FecCD,FecCD,ABC_tran,TonB_dep_Rec,ABC_tran,MacB_PCD,FtsX,OEP,OEP,ABC_membrane,ABC_tran,TonB_dep_Rec
+
+BGC0001556	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0001557	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	MFS_1,MFS_1,MFS_1
+
+BGC0001558	2	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran,ABC2_membrane,ABC_tran
+
+BGC0001560	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	MatE,MatE
+
+BGC0001561	1	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	FtsX,MFS_3,ABC_tran
+
+BGC0001563	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	MFS_1,MFS_1
+
+BGC0001564	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	MatE,MatE
+
+BGC0001565	2	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran,ABC_membrane,ABC_tran
+
+BGC0001568	2	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran,ABC2_membrane,ABC_tran
+
+BGC0001569	2	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	FtsX,ABC_tran,MFS_1,ABC_tran
+
+BGC0001570	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	MFS_3
+
+BGC0001571	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	MFS_1,MFS_1
+
+BGC0001572	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0001574	3	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	0	MFS_1,FecCD,ABC_tran,ABC_tran,ABC_tran,BPD_transp_2
+
+BGC0001575	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	MatE,MatE
+
+BGC0001576	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran
+
+BGC0001579	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran,ABC2_membrane
+
+BGC0001582	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC2_membrane,ABC_tran
+
+BGC0001583	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0001584	1	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	2	0	0	ABC_tran,MFS_1,MFS_1,MMPL,MMPL
+
+BGC0001585	2	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran,ABC_membrane,ABC_tran
+
+BGC0001587	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	BPD_transp_1
+
+BGC0001590	2	2	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	MFS_1,ABC_tran,ABC2_membrane_2,ABC_tran,BPD_transp_1,BPD_transp_1
+
+BGC0001591	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	ABC_tran,MacB_PCD,FtsX
+
+BGC0001592	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0001593	1	1	0	0	0	2	0	0	0	0	0	2	0	0	0	0	0	0	0	0	BPD_transp_1,MFS_1,ABC_tran,FecCD,FecCD,MFS_1
+
+BGC0001594	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	FtsX
+
+BGC0001596	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0001597	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0001598	1	2	0	0	0	0	0	0	0	2	1	4	0	0	0	2	0	0	0	0	MFS_1,MFS_3,MFS_1,BPD_transp_1,MFS_1,MFS_1,BPD_transp_1,ABC_tran,MacB_PCD,FtsX,MacB_PCD,FtsX
+
+BGC0001602	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran
+
+BGC0001603	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	MFS_1,MFS_1
+
+BGC0001606	2	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran,ABC_membrane,ABC_tran
+
+BGC0001607	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran,ABC2_membrane
+
+BGC0001608	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0001610	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0001611	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0001612	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	FtsX
+
+BGC0001614	1	0	0	1	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	MFS_1,ABC_membrane,ABC_tran,MFS_1
+
+BGC0001617	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0001618	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran
+
+BGC0001619	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC2_membrane,ABC_tran
+
+BGC0001620	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran,ABC2_membrane
+
+BGC0001622	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0001623	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran,ABC2_membrane
+
+BGC0001630	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran
+
+BGC0001634	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran
+
+BGC0001635	2	0	0	1	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	ABC_tran,MacB_PCD,FtsX,ABC_membrane,ABC_tran
+
+BGC0001636	2	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran,ABC_membrane,ABC_tran
+
+BGC0001637	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1,ABC_tran
+
+BGC0001638	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran
+
+BGC0001639	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran
+
+BGC0001640	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran
+
+BGC0001644	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0001645	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran
+
+BGC0001646	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	MatE,MatE
+
+BGC0001648	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0001652	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran
+
+BGC0001655	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran,ABC2_membrane
+
+BGC0001657	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran,TonB_dep_Rec
+
+BGC0001658	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran,ABC2_membrane
+
+BGC0001660	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran,ABC2_membrane
+
+BGC0001661	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0001666	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0001667	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran
+
+BGC0001669	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	ABC_tran,MFS_3
+
+BGC0001670	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0001674	2	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	ABC2_membrane_4,ABC_tran,ABC2_membrane,ABC_tran
+
+BGC0001675	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	2	0	0	MMPL,MMPL,MFS_1,MFS_1
+
+BGC0001679	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0001684	1	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	ABC_tran,ABC2_membrane_3
+
+BGC0001688	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	ABC_tran,MacB_PCD,FtsX
+
+BGC0001690	2	0	0	2	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran,ABC_membrane,ABC_tran,MFS_3
+
+BGC0001693	2	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	ABC2_membrane_4,ABC_tran,ABC_membrane,ABC_tran
+
+BGC0001694	2	2	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	BPD_transp_1,MFS_1,ABC_tran,ABC_tran,BPD_transp_1
+
+BGC0001699	2	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1,ABC_tran,ABC_membrane,ABC_tran
+
+BGC0001701	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran,ABC_tran
+
+BGC0001702	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0001705	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran
+
+BGC0001709	2	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran,ABC_membrane,ABC_tran
+
+BGC0001711	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran
+
+BGC0001712	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0001713	0	0	1	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	MFS_1,MFS_1,TonB_dep_Rec
+
+BGC0001715	3	1	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran,ABC_membrane,ABC_tran,BPD_transp_1,ABC_tran
+
+BGC0001716	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran
+
+BGC0001719	1	1	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	ABC_tran,BPD_transp_1,MFS_1,MFS_1
+
+BGC0001720	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0001721	2	0	1	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	FecCD,FecCD,ABC_tran,TonB_dep_Rec,ABC_tran
+
+BGC0001724	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0001727	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	ABC_tran,ABC_tran,ABC2_membrane_4,ABC2_membrane_4
+
+BGC0001728	1	0	0	0	0	0	0	0	0	1	0	2	0	0	0	1	0	0	0	0	MFS_1,ABC_tran,MFS_1,MacB_PCD,FtsX
+
+BGC0001729	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0001730	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0001731	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	MFS_1,MFS_1
+
+BGC0001732	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	MFS_1,MFS_1
+
+BGC0001733	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ACR_tran
+
+BGC0001735	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0001738	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0001739	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0001740	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0001741	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0001743	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran
+
+BGC0001748	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran
+
+BGC0001752	2	0	0	2	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran,ABC_membrane,ABC_tran,FecCD,FecCD
+
+BGC0001754	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran
+
+BGC0001755	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0001759	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1,ABC_tran
+
+BGC0001763	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran,ABC2_membrane
+
+BGC0001764	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran,BPD_transp_1
+
+BGC0001765	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	BPD_transp_1,ABC_tran
+
+BGC0001767	1	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	FecCD,ABC_tran,FecCD
+
+BGC0001768	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0001769	0	0	0	0	0	0	0	0	0	0	1	2	0	0	0	0	0	0	0	0	MFS_3,MFS_1,MFS_1
+
+BGC0001770	1	0	0	0	0	0	0	0	0	2	0	1	0	0	0	0	0	0	0	0	MFS_1,ABC_tran,FtsX,FtsX
+
+BGC0001773	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran,ABC2_membrane
+
+BGC0001774	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	MFS_3
+
+BGC0001778	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	2	MFS_1,Multi_Drug_Res,Multi_Drug_Res
+
+BGC0001779	2	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	ABC_tran,ABC2_membrane_4,ABC_tran,ABC2_membrane
+
+BGC0001783	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	MFS_1,MFS_1,MFS_1,MFS_1
+
+BGC0001784	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0001786	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	TonB_dep_Rec
+
+BGC0001787	2	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran,ABC_tran
+
+BGC0001788	2	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	ABC2_membrane_4,ABC_membrane,ABC_tran,ABC_tran,ABC2_membrane_4
+
+BGC0001789	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran,ABC_tran
+
+BGC0001790	0	0	0	0	1	0	0	0	2	0	1	0	0	0	0	0	0	0	0	0	MFS_3,OEP,OEP,ACR_tran
+
+BGC0001792	1	2	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	BPD_transp_1,ABC_tran,BPD_transp_1,MFS_1,MFS_1
+
+BGC0001796	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	MFS_3
+
+BGC0001797	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	MMPL,MMPL
+
+BGC0001800	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0001801	2	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran,ABC_membrane,ABC_tran
+
+BGC0001804	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	MFS_1,MFS_1
+
+BGC0001805	1	0	0	0	0	0	0	2	0	0	0	1	0	0	0	0	0	0	0	0	MatE,MatE,MFS_1,ABC_tran
+
+BGC0001807	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	MFS_1,MFS_1
+
+BGC0001810	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	MFS_1,MFS_1
+
+BGC0001811	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0001812	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran,ABC_tran
+
+BGC0001813	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	MFS_3
+
+BGC0001814	2	0	0	0	0	0	0	0	0	1	0	2	0	0	0	0	0	0	0	0	MFS_1,ABC_tran,FtsX,ABC_tran,MFS_1
+
+BGC0001815	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	MFS_1,MFS_1
+
+BGC0001819	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	MFS_1,MFS_1
+
+BGC0001820	2	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran,ABC_membrane,ABC_tran
+
+BGC0001823	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0001827	2	0	0	0	0	0	2	0	0	0	0	1	0	0	0	0	0	0	0	0	ABC_tran,ABC2_membrane,ABC_tran,ABC2_membrane,MFS_1
+
+BGC0001828	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	MMPL,MMPL
+
+BGC0001830	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran,ABC_tran
+
+BGC0001838	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	ABC_tran,MacB_PCD,FtsX
+
+BGC0001842	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	ABC_tran,MacB_PCD,FtsX
+
+BGC0001846	3	2	0	0	0	2	0	0	0	0	0	2	0	0	0	0	0	0	0	0	MFS_1,FecCD,FecCD,BPD_transp_1,ABC_tran,MFS_1,BPD_transp_1,ABC_tran,ABC_tran
+
+BGC0001848	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	MMPL,MMPL
+
+BGC0001849	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	MFS_1,MFS_1
+
+BGC0001851	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran,ABC2_membrane
+
+BGC0001852	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran,ABC2_membrane
+
+BGC0001856	1	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	ABC2_membrane,ABC_tran,MFS_1
+
+BGC0001859	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	MFS_1,MFS_1
+
+BGC0001861	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran
+
+BGC0001862	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran
+
+BGC0001863	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran
+
+BGC0001864	2	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran,ABC_membrane,ABC_tran
+
+BGC0001865	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0001866	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0001870	1	0	1	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	TonB_dep_Rec,FecCD,FecCD,ABC_tran
+
+BGC0001872	1	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	ABC2_membrane_3,ABC_tran
+
+BGC0001877	1	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	ABC_tran,ABC2_membrane,MFS_3
+
+BGC0001881	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0001882	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	MFS_1,MFS_1
+
+BGC0001886	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0001887	2	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran,ABC_membrane,ABC_tran
+
+BGC0001888	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0001889	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran
+
+BGC0001891	2	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC2_membrane,ABC_tran,ABC_tran
+
+BGC0001894	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	MatE
+
+BGC0001895	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0001897	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0001898	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0001901	2	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran,ABC_membrane,ABC_tran
+
+BGC0001902	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	MatE,MatE
+
+BGC0001907	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	MFS_1,MFS_1
+
+BGC0001908	1	0	0	0	0	0	0	0	0	2	0	1	0	0	0	0	0	0	0	0	MFS_1,ABC_tran,FtsX,FtsX
+
+BGC0001913	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	MFS_1,MFS_1
+
+BGC0001920	2	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	1	0	0	0	ABC_tran,ABC2_membrane_4,ABC_tran,ABC2_membrane,MFS_1
+
+BGC0001921	2	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	ABC2_membrane,ABC_tran,ABC2_membrane_4,ABC_tran
+
+BGC0001922	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0001925	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0001926	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0001927	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran,ABC2_membrane
+
+BGC0001928	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1,ABC_tran
+
+BGC0001929	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	MatE
+
+BGC0001930	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran
+
+BGC0001931	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran,ABC_tran
+
+BGC0001937	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0001939	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0001940	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran,BPD_transp_1
+
+BGC0001942	2	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran,ABC_membrane,ABC_tran
+
+BGC0001944	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC2_membrane,ABC_tran
+
+BGC0001945	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	MFS_3
+
+BGC0001946	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	MatE,MatE
+
+BGC0001948	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0001950	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran
+
+BGC0001951	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran
+
+BGC0001952	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran
+
+BGC0001953	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran
+
+BGC0001954	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0001955	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran
+
+BGC0001956	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0001957	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0001958	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0001959	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0001961	1	2	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	BPD_transp_1,BPD_transp_1,ABC_tran,MFS_1
+
+BGC0001962	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	BPD_transp_1
+
+BGC0001963	1	0	0	0	0	0	1	0	0	0	0	3	0	0	0	0	0	0	0	0	ABC2_membrane,ABC_tran,MFS_1,MFS_1,MFS_1
+
+BGC0001964	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	BPD_transp_1,ABC_tran
+
+BGC0001965	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0001966	2	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	ABC_tran,ABC_tran,MFS_1
+
+BGC0001968	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC2_membrane,ABC_tran
+
+BGC0001972	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	MFS_1,MFS_1
+
+BGC0001973	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	MFS_1,MFS_1
+
+BGC0001975	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran,ABC2_membrane
+
+BGC0001976	2	0	0	0	0	0	2	0	0	0	0	1	0	0	0	0	0	0	0	0	ABC_tran,ABC2_membrane,ABC_tran,ABC2_membrane,MFS_1
+
+BGC0001977	2	0	0	0	0	0	2	0	0	0	0	1	0	0	0	0	0	0	0	0	ABC_tran,ABC2_membrane,ABC_tran,ABC2_membrane,MFS_1
+
+BGC0001979	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	MFS_1,MFS_1,MFS_1
+
+BGC0001980	1	0	0	0	0	0	0	0	2	1	0	0	0	0	0	1	0	0	0	0	OEP,OEP,ABC_tran,MacB_PCD,FtsX
+
+BGC0001982	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0001983	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0001985	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	MFS_1,MFS_1
+
+BGC0001987	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	MMPL,MMPL
+
+BGC0001988	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0001989	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0001995	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	MFS_1,MFS_1
+
+BGC0001996	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	MFS_1,MFS_1,MFS_1
+
+BGC0001999	2	0	2	1	0	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	MFS_3,ABC_membrane,ABC_tran,TonB_dep_Rec,FecCD,FecCD,TonB_dep_Rec,ABC_tran
+
+BGC0002000	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0002001	2	0	1	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	ABC_tran,OEP,OEP,ABC_tran,TonB_dep_Rec
+
+BGC0002003	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0002004	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	MatE,TonB_dep_Rec
+
+BGC0002005	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran
+
+BGC0002008	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	MMPL
+
+BGC0002009	2	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran,ABC_membrane,ABC_tran
+
+BGC0002010	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0002011	3	2	0	1	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	BPD_transp_1,BPD_transp_1,ABC_tran,ABC_tran,ABC_membrane,ABC_tran,MFS_1,MFS_1
+
+BGC0002012	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	MFS_1,Multi_Drug_Res
+
+BGC0002014	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC2_membrane,ABC_tran
+
+BGC0002015	2	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	ABC2_membrane,ABC_tran,ABC2_membrane_4,ABC_tran
+
+BGC0002016	0	0	0	0	0	0	0	0	0	0	1	2	0	0	0	0	0	0	0	0	MFS_1,MFS_3,MFS_1
+
+BGC0002021	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_membrane,ABC_tran
+
+BGC0002025	1	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1,ABC_membrane,ABC_tran
+
+BGC0002027	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	MFS_1,MFS_1
+
+BGC0002028	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0002029	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0002030	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	MFS_1
+
+BGC0002033	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	ABC_tran,ABC_tran
+

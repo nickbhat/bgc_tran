@@ -1,0 +1,2 @@
+mibig_pfam20.tsv filter=lfs diff=lfs merge=lfs -text
+antismash_pfam20.tsv filter=lfs diff=lfs merge=lfs -text

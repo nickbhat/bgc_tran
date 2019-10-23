@@ -1,3 +1,191 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:612d4e07a88d1a9192933dfebf31e943d2c6b12249ebd44a4135b7be5dce125e
-size 22475
+FunFam	Description	TCDB	TCDB_NAME	ALL_TCDBs
+3.40.50.300/FF/632839	ABC transporter, ATP-binding subunit	NA	NA	3.A.1.15,3.A.1.27,3.A.1.14,3.A.1.13
+1.10.3470.10/FF/21766	Iron ABC transporter permease	NA	NA	3.A.1.15,3.A.1.14,3.A.1.13
+3.40.50.1980/FF/29562	ABC transporter, periplasmic binding protein	3.A.1.15	The Manganese/Zinc/Iron Chelate Uptake Transporter (MZT) Family (Similar to 3.A.1.12, 3.A.1.14 and 3.A.1.16)	3.A.1.15
+1.20.1640.10/FF/24538	RND family efflux transporter	NA	NA	2.A.6.3,2.A.6.1,2.A.6.2
+1.20.1250.20/FF/181070	MFS multidrug transporter, putative	NA	NA	2.A.1.37,2.A.1.68,2.A.1.71,2.A.1.66,2.A.1.74,2.A.1.15,2.A.1.11,2.A.1.7,2.A.1.26,2.A.1.45,2.A.1.55,2.A.1.46,2.A.1.54,2.A.1.3,2.A.1.67,2.A.1.2,2.A.1.13,2.A.1.34,2.A.1.59
+1.20.1250.20/FF/180590	MFS family sugar transporter	NA	NA	2.A.1.37,2.A.1.68,2.A.1.39,2.A.1.63,2.A.1.72,2.A.1.71,2.A.1.2,2.A.1.66,2.A.1.4,2.A.1.1,2.A.1.80,2.A.1.7,2.A.1.26,2.A.1.8,2.A.1.49,2.A.1.46,2.A.1.3,2.A.1.21,2.A.1.60
+3.30.750.24/FF/8342	Sulfate anion transporter 1	NA	NA	2.A.53.1,2.A.53.2,2.A.53.4
+1.20.58.370/FF/1981	ABC-type transporter, integral membrane subunit	NA	NA	2.A.3.3,3.A.1.1,3.A.1.155
+2.40.50.100/FF/50279	Efflux transporter, RND family, MFP subunit	NA	NA	3.A.1.122,3.A.1.112,2.A.6.2
+2.40.50.100/FF/42886	Putative hlyD-like secretion protein	NA	NA	2.A.6.3,2.A.6.1,2.A.6.2
+1.20.1640.10/FF/24424	RND multidrug efflux transporter	NA	NA	2.A.6.3,2.A.6.2
+1.20.1250.20/FF/180628	Major facilitator superfamily transporter	NA	NA	2.A.1.37,2.A.1.53,2.A.1.14,2.A.1.78,2.A.1.66,2.A.1.4,2.A.1.80,2.A.1.29,2.A.1.7,2.A.94.1,2.A.1.49,2.A.1.45,2.A.1.55,2.A.1.46,2.A.1.3,2.A.1.56,2.A.1.54,2.A.1.70,2.A.1.84,2.A.1.51
+1.20.1250.20/FF/180940	Drug resistance MFS transporter	NA	NA	2.A.1.68,2.A.1.63,2.A.1.74,9.B.143.3,2.A.57.1,2.A.1.13,2.A.1.2,2.A.1.58,2.A.1.37,2.A.1.53,2.A.1.29,2.A.1.49,2.A.1.55,2.A.1.34,2.A.1.56,2.A.1.21,2.A.1.43,2.A.1.60,2.A.1.84,2.A.1.59,2.A.2.7,2.A.1.7,2.A.1.31,2.A.1.3,3.A.1.105,2.A.1.48,2.A.1.72,2.A.1.11,2.A.1.4,2.A.1.65,2.A.1.54,2.A.1.16,2.A.1.46
+2.40.160.10/FF/9684	Outer membrane porin C	1.B.1.1	The General Bacterial Porin (GBP) Family	1.B.1.1
+1.20.1250.20/FF/180573	MFS multidrug transporter, putative	2.A.1.2	The Drug:H+ Antiporter-1 (12 Spanner) (DHA1) Family	2.A.1.2
+3.40.50.300/FF/628304	ABC transporter ATP-binding component	NA	NA	3.A.1.207,3.A.1.114,3.A.1.125,3.A.1.24,3.A.1.134,3.A.1.120,3.A.1.137,3.A.1.122
+2.160.20.20/FF/2486	Serine protease sat autotransporter	1.B.12.4	The Autotransporter-1 (AT-1) Family	1.B.12.4
+2.40.128.130/FF/4240	Serine protease SepA autotransporter	1.B.12.4	The Autotransporter-1 (AT-1) Family	1.B.12.4
+3.40.50.300/FF/627498	ABC transporter, ATP-binding component	NA	NA	3.A.1.1,3.A.1.10,3.A.1.20,3.A.1.3,3.A.1.27,3.A.1.12,3.A.1.6,3.A.1.8,3.A.1.19,3.A.1.11
+1.20.1250.20/FF/179298	Monocarboxylate transporter 10	2.A.1.13	The Monocarboxylate Transporter (MCT) Family (Halestrap, 2011)	2.A.1.13
+1.20.1250.20/FF/179804	Multidrug resistance protein MdtG	NA	NA	2.A.1.39,2.A.1.2,2.A.1.11,9.B.143.2,2.A.1.65,2.A.1.46,2.A.1.31,2.A.1.83,2.A.1.67,2.A.1.56,2.A.1.5,2.A.1.34,2.A.1.21,2.A.1.59
+3.40.50.300/FF/628823	ABC transporter ATP-binding component	NA	NA	3.A.1.143,3.A.1.128,3.A.1.144,3.A.1.132,3.A.1.148,3.A.1.211,3.A.1.153,3.A.1.147,3.A.1.160,3.A.1.124,3.A.1.149,3.A.1.126,3.A.1.120,3.A.1.146,3.A.1.115,3.A.1.138,3.A.1.105,3.A.1.151,3.A.1.142,3.A.1.101,3.A.1.130,3.A.1.141,3.A.1.131,3.A.1.145
+1.20.1250.20/FF/179738	Major facilitator protein	NA	NA	2.A.1.86,2.A.1.66,2.A.85.4,2.A.1.72
+1.10.3720.10/FF/58813	ABC transporter, permease protein	NA	NA	3.A.1.3,3.A.1.5,2.A.26.1
+2.40.160.10/FF/9698	Probable voltage-dependent anion-selective channel	NA	NA	1.B.8.2,1.B.8.8,1.B.8.1,1.B.8.4,1.B.8.7,1.B.8.3,1.B.8.5
+3.40.50.300/FF/631282	ABC transporter, ATP-binding protein	NA	NA	3.A.1.29,3.A.1.207,3.A.1.25,3.A.1.18,3.A.1.26,3.A.1.28,3.A.1.31,3.A.1.32,3.A.1.30,3.A.1.150,3.A.1.34,3.A.1.22,3.A.1.6,3.A.1.33,3.A.1.139,3.A.1.23,3.A.1.4
+3.40.50.300/FF/631004	Ribose ABC transporter ATP-binding	NA	NA	3.A.1.2,3.A.1.121
+3.40.50.300/FF/633348	Ribose ABC transporter ATP-binding	3.A.1.2	The Carbohydrate Uptake Transporter-2 (CUT2) Family	3.A.1.2
+1.20.1250.20/FF/180137	Organic anion transporter, putative	NA	NA	2.A.60.1,2.A.1.49
+1.20.1560.10/FF/26651	ABC transporter ATP-binding protein/permease	NA	NA	3.A.1.117,3.A.1.203,3.A.1.201,3.A.1.209,3.A.1.109,3.A.1.113,3.A.1.206,3.A.1.112,3.A.1.127,3.A.1.110,3.A.1.111,3.A.1.212,3.A.1.21,3.A.1.123,3.A.1.119,3.A.1.135,3.A.1.106
+3.40.50.300/FF/630003	ABC transporter, ATP-binding protein	3.A.1.112	The Peptide-2 Exporter (Pep2E) Family	3.A.1.112
+1.20.1250.20/FF/180239	Tetracycline resistance protein tetA	NA	NA	2.A.1.37,2.A.1.47,2.A.1.74,2.A.1.73,2.A.48.1,2.A.1.26,2.A.1.65,2.A.1.46,2.A.1.3,2.A.1.83,2.A.1.2,2.A.1.21,2.A.1.59
+1.20.1250.20/FF/179801	High-affinity glucose transporter SNF3	2.A.1.1	The Sugar Porter (SP) Family	2.A.1.1
+1.20.1250.20/FF/180267	Drug resistance transporter, EmrB/QacA family	2.A.1.3	The Drug:H+ Antiporter-2 (14 Spanner) (DHA2) Family	2.A.1.3
+3.40.50.300/FF/630576	ABC transporter, ATP-binding component	NA	NA	3.A.1.17,3.A.1.207,3.A.1.121,3.A.1.6,3.A.1.8,3.A.1.19,3.A.1.16
+3.40.50.300/FF/635508	ABC transporter ATP-binding protein	NA	NA	3.A.1.118,3.A.1.203,3.A.1.109,3.A.1.206,3.A.1.127,3.A.1.111,3.A.1.110,3.A.1.123,3.A.1.119,3.A.1.112
+2.170.130.10/FF/21034	TonB-dependent vitamin B12 receptor	NA	NA	1.B.14.2,1.B.14.10,1.B.14.1,1.B.14.3
+3.40.50.300/FF/632367	ABC transporter, ATP-binding protein	NA	NA	3.A.1.204,3.A.1.205
+2.40.170.20/FF/26209	TonB-dependent siderophore receptor/ferripyoverdine receptor	NA	NA	1.B.14.8,1.B.14.1,1.B.14.13
+3.40.50.300/FF/627204	ABC transporter ATP-binding protein/permease	NA	NA	3.A.1.117,3.A.1.135,3.A.1.201,3.A.1.209,3.A.1.109,3.A.1.127,3.A.1.210,3.A.1.108,3.A.1.111,3.A.1.212,3.A.1.21,3.A.1.123,3.A.1.119,3.A.1.112,3.A.1.106
+3.40.190.10/FF/202538	Amino acid ABC transporter	NA	NA	3.A.1.17,3.A.1.3
+1.20.1250.20/FF/178507	Solute carrier organic anion transporter family member 1C1	2.A.60.1	The Organo Anion Transporter (OAT) Family	2.A.60.1
+2.40.160.20/FF/9743	Outer membrane protein	NA	NA	1.B.6.2,1.B.49.1,1.B.6.1,1.B.44.1,1.B.6.3
+1.20.1250.20/FF/180946	MFS monocarboxylate transporter, putative	NA	NA	2.A.1.79,2.A.1.53,2.A.1.11,2.A.1.23,2.A.1.55,2.A.1.13,2.A.1.70
+1.20.1250.20/FF/180270	Major facilitator superfamily transporter	2.A.1.3	The Drug:H+ Antiporter-2 (14 Spanner) (DHA2) Family	2.A.1.3
+1.20.1640.10/FF/24590	Membrane protein, MmpL family	NA	NA	2.A.6.7,2.A.6.5,2.A.6.8
+1.20.1250.20/FF/180177	Inorganic phosphate transporter PHO84	2.A.1.9	The Phosphate: H+ Symporter (PHS) Family	2.A.1.9
+1.10.3720.10/FF/58808	Sugar ABC transporter permease	NA	NA	3.A.1.17,3.A.1.1,3.A.1.5,3.A.1.10,3.A.1.20,3.A.1.19,3.A.1.11
+3.40.190.10/FF/204263	ABC transporter substrate-binding protein	3.A.1.1	The Carbohydrate Uptake Transporter-1 (CUT1) Family	3.A.1.1
+3.40.50.300/FF/632989	ABC transporter related protein	NA	NA	3.A.1.29,3.A.1.18,3.A.1.26,3.A.1.31,3.A.1.32,3.A.1.30,3.A.1.33
+1.20.1560.10/FF/26723	ABC multidrug transporter (Eurofung)	NA	NA	3.A.1.5,3.A.1.206,3.A.1.201
+1.20.1250.20/FF/58719	Phosphoglycerate transporter family protein/D-galactonate transporter	NA	NA	2.A.1.14,2.A.1.28,2.A.1.80,2.A.1.2,2.A.1.51
+1.20.1250.20/FF/180926	Major facilitator superfamily transporter	NA	NA	3.A.1.2,2.A.1.58
+3.40.50.2300/FF/136858	Autoinducer 2-binding protein lsrB	3.A.1.2	The Carbohydrate Uptake Transporter-2 (CUT2) Family	3.A.1.2
+1.20.1250.20/FF/179959	Solute carrier family 22 member 6	2.A.1.19	The Organic Cation Transporter (OCT) Family (The SLC22A family including OCT1-3, OCTN1-3 and OAT1-5 of H. sapiens)	2.A.1.19
+2.40.50.100/FF/28345	Efflux transporter, RND family, MFP subunit	NA	NA	3.A.1.105,2.A.6.2,2.A.1.3,2.A.6.3,3.A.1.122
+1.20.1250.20/FF/180002	Membrane protein, major facilitator superfamily	NA	NA	2.A.1.21,2.A.1.69,2.A.1.30,2.A.1.31
+1.20.1250.20/FF/180777	Uncharacterized MFS-type transporter YddS	NA	NA	2.A.1.55,2.A.1.81
+1.25.40.10/FF/146309	Tetratricopeptide repeat domain-containing protein	NA	NA	1.B.55.1,1.B.14.6,1.B.92.1,1.B.6.1,1.B.17.3,1.B.55.2
+1.20.1560.10/FF/26709	Multidrug resistance-associated ABC transporter	NA	NA	2.A.3.6,3.A.1.208,3.A.1.202
+3.40.50.300/FF/628430	ABC transporter family protein	3.A.1.208	The Drug Conjugate Transporter (DCT) Family (ABCC) (Dębska et al., 2011)	3.A.1.208
+1.20.1560.10/FF/26411	ABC transporter C family MRP4	3.A.1.208	The Drug Conjugate Transporter (DCT) Family (ABCC) (Dębska et al., 2011)	3.A.1.208
+3.40.50.300/FF/629966	Multidrug resistance-associated ABC transporter	NA	NA	3.A.1.208,3.A.1.202
+1.10.3720.10/FF/58598	Phosphate ABC transporter, permease PstA	NA	NA	3.A.1.17,3.A.1.1,3.A.1.5,3.A.1.10,3.A.1.3,3.A.1.24,3.A.1.19,3.A.1.11
+1.20.1250.20/FF/179930	Quinolone resistance protein NorA	NA	NA	2.A.1.39,2.A.1.71,2.A.1.74,2.A.1.80,2.A.1.65,2.A.1.46,2.A.1.13,2.A.1.2
+1.20.1560.10/FF/26621	Multidrug resistance-associated ABC transporter	NA	NA	3.A.1.4,3.A.1.208
+3.40.50.1980/FF/29572	ABC transporter substrate-binding protein	3.A.1.14	The Iron Chelate Uptake Transporter (FeCT) Family (Similar to 3.A.1.13 and 3.A.1.15)	3.A.1.14
+1.20.1250.20/FF/180544	Inner membrane protein YhjX	NA	NA	2.A.1.70,2.A.1.11,2.A.1.75
+1.20.1250.20/FF/180834	Protein spinster homolog 1	NA	NA	2.A.1.37,2.A.1.48,2.A.1.66,2.A.1.61,2.A.1.7,2.A.1.45,2.A.1.49,2.A.1.46,2.A.1.34,2.A.1.3,2.A.1.43,2.A.1.35
+1.20.1250.20/FF/180852	High affinity nitrate transporter	2.A.1.8	NA	2.A.1.8
+1.20.1250.20/FF/180727	High affinity nitrate transporter	2.A.1.8	NA	2.A.1.8
+1.20.1250.20/FF/180603	Sugar transporter ERD6-like 2	2.A.1.1	The Sugar Porter (SP) Family	2.A.1.1
+1.20.1250.20/FF/180227	Tetracycline resistance protein, class B	NA	NA	2.A.1.2,2.A.1.59
+1.20.1250.20/FF/179556	Folate-biopterin transporter 1, chloroplastic	NA	NA	2.A.71.2,2.A.71.1
+1.20.1250.20/FF/51706	Major Facilitator Superfamily protein	NA	NA	2.A.1.69,2.A.1.38,2.A.1.31,2.A.1.21,2.A.1.62
+4.10.1080.10/FF/2874	Outer membrane porin F	9.B.153.3	The Putative Beta-Barrel Porin/Alpha Amylase or Phenol_MetA-deg (BBP/AA) Family	9.B.153.3
+1.10.287.950/FF/25887	Methyl-accepting chemotaxis sensory transducer	NA	NA	1.B.60.1,2.A.6.5,3.A.1.155
+3.40.50.300/FF/630249	ABC transporter ATP-binding component	NA	NA	3.A.1.211,3.A.1.121,3.A.1.101,3.A.1.120
+3.40.50.300/FF/631079	ABC transporter, ATP-binding component	NA	NA	3.A.1.211,3.A.1.121,3.A.1.120
+3.40.930.10/FF/4542	Sodium bicarbonate cotransporter 3	NA	NA	2.A.31.1,2.A.31.2
+1.20.1250.20/FF/180870	Feline leukemia virus subgroup C receptor-related	NA	NA	2.A.1.2,2.A.1.28,2.A.1.29,2.A.1.35
+3.40.50.300/FF/629675	ABC multidrug transporter (Eurofung)	3.A.1.201	The Multidrug Resistance Exporter (MDR) Family (ABCB)	3.A.1.201
+1.20.1250.20/FF/179503	Glucose transporter 2A	2.A.1.1	The Sugar Porter (SP) Family	2.A.1.1
+3.40.50.300/FF/632531	Oligopeptide ABC transporter ATP-binding	NA	NA	3.A.1.5,3.A.1.7,3.A.1.139
+1.10.3720.10/FF/27830	Peptide ABC transporter permease	3.A.1.5	The Peptide/Opine/Nickel Uptake Transporter (PepT) Family	3.A.1.5
+1.10.3720.10/FF/58629	Dipeptide transporter permease DppB	3.A.1.5	The Peptide/Opine/Nickel Uptake Transporter (PepT) Family	3.A.1.5
+3.40.190.10/FF/204116	HTH-type transcriptional regulator SgrR	3.A.1.5	The Peptide/Opine/Nickel Uptake Transporter (PepT) Family	3.A.1.5
+1.20.1600.10/FF/23316	Outer membrane efflux protein	NA	NA	1.B.17.3,3.A.1.105,2.A.6.2
+3.40.50.300/FF/629872	Cell division ATP-binding protein	3.A.1.140	The FtsX/FtsE Septation (FtsX/FtsE) Family	3.A.1.140
+3.30.60.30/FF/4606	Agrin isoform 1-like protein	2.A.60.1	The Organo Anion Transporter (OAT) Family	2.A.60.1
+2.60.450.10/FF/3158	LPS-assembly protein LptD	NA	NA	1.B.42.2,1.B.42.1
+3.40.50.300/FF/634340	ABC transporter, ATP-binding protein	NA	NA	3.A.1.103,3.A.1.101,3.A.1.104
+1.20.1250.20/FF/180883	Synaptic vesicle glycoprotein 2A	NA	NA	2.A.1.19,2.A.1.22,2.A.1.82
+1.20.1560.10/FF/26693	HlyB/MsbA family ABC transporter	NA	NA	3.A.1.109,3.A.1.112
+2.40.50.100/FF/29393	Alkaline protease secretion protein AprE	NA	NA	3.A.1.109,2.A.6.3,3.A.1.114,3.A.1.110
+2.40.50.100/FF/19697	Probable Co/Zn/Cd efflux system membrane fusion protein	NA	NA	3.A.1.105,2.A.6.1,3.A.1.109,2.A.6.2,2.A.6.3,3.A.1.122
+2.40.160.10/FF/9691	OprE-like outer membrane porin	1.B.25.1	The Outer Membrane Porin (Opr) Family	1.B.25.1
+3.40.190.10/FF/203109	ABC transporter, substrate-binding protein, family 3	NA	NA	2.A.56.3,3.A.1.3
+3.30.70.1430/FF/13960	Cation efflux system protein czcA	2.A.6.1	The Heavy Metal Efflux (HME) Family	2.A.6.1
+3.30.2090.10/FF/12553	Cation efflux system protein CusA	2.A.6.1	The Heavy Metal Efflux (HME) Family	2.A.6.1
+1.20.1640.10/FF/24369	Heavy metal efflux pump CzcA	2.A.6.1	The Heavy Metal Efflux (HME) Family	2.A.6.1
+3.40.50.300/FF/624808	ATP-binding Cassette (ABC) Superfamily	3.A.1.205	The Pleiotropic Drug Resistance (PDR) Family (ABCG)	3.A.1.205
+1.10.3720.10/FF/58754	ABC transporter phosphate permease	3.A.1.7	The Phosphate Uptake Transporter (PhoT) Family	3.A.1.7
+1.20.1250.20/FF/180259	MFS family sugar transporter	2.A.1.1	The Sugar Porter (SP) Family	2.A.1.1
+1.20.1250.20/FF/180600	Sucrose transport protein SUC7	NA	NA	2.A.1.2,2.A.2.6,2.A.2.4
+1.20.1250.20/FF/180925	Protein unc-93 homolog A	NA	NA	2.A.1.87,2.A.1.58,2.A.1.67
+3.30.70.1430/FF/13958	Multidrug efflux transporter MexF	2.A.6.2	The (Largely Gram-negative Bacterial) Hydrophobe/Amphiphile Efflux-1 (HAE1) Family	2.A.6.2
+3.40.50.300/FF/632705	ABC transporter ATP-binding protein	NA	NA	3.A.1.109,3.A.1.111,3.A.1.135
+1.20.1250.20/FF/180930	Siderophore iron transporter 1	NA	NA	2.A.1.74,2.A.1.84,2.A.1.16
+3.40.190.10/FF/8226	Maltose ABC transporter substrate-binding protein	NA	NA	3.A.1.1,3.A.1.19
+1.20.1250.20/FF/180577	Solute carrier family 22 member 6	NA	NA	2.A.1.19,2.A.1.76,2.A.1.53,2.A.1.2,2.A.1.4,2.A.1.80,2.A.1.73,2.A.1.61,2.A.1.7,2.A.1.45,2.A.1.67,2.A.1.46,2.A.1.15,2.A.1.21,2.A.1.51
+3.40.50.150/FF/135553	Putative spermidine synthase 1	2.A.1.86	The Uncharacterized Major Facilitator-30 (UMF30) Family	2.A.1.86
+1.20.1250.20/FF/181060	Sucrose transport protein SUT1	2.A.2.4	The Glycoside-Pentoside-Hexuronide (GPH):Cation Symporter Family	2.A.2.4
+3.40.50.2300/FF/152268	Membrane lipoprotein family protein	3.A.1.2	The Carbohydrate Uptake Transporter-2 (CUT2) Family	3.A.1.2
+1.20.1560.10/FF/26664	ABC transporter, ATP-binding protein	NA	NA	3.A.1.210,3.A.1.118
+1.20.1250.20/FF/180743	Sodium-dependent lysophosphatidylcholine symporter 1	NA	NA	2.A.2.5,2.A.2.3,2.A.2.1,2.A.2.7
+1.20.1250.20/FF/113957	Uncharacterized MFS-type transporter C1399.02	NA	NA	2.A.1.48,2.A.1.3
+3.40.190.10/FF/34510	Extracellular solute-binding protein, family 5	NA	NA	1.B.13.1,3.A.1.5
+3.40.50.300/FF/631655	ATP-binding cassette, sub-family D	3.A.1.203	The Peroxysomal Fatty Acyl CoA Transporter (P-FAT) Family (ABCD)	3.A.1.203
+3.40.50.300/FF/631642	ABC multidrug transporter (Eurofung)	3.A.1.205	The Pleiotropic Drug Resistance (PDR) Family (ABCG)	3.A.1.205
+1.20.1250.20/FF/129575	Multidrug resistance protein 2	NA	NA	2.A.1.80,2.A.1.65,2.A.1.2,2.A.1.60,2.A.1.51,2.A.1.21
+1.20.1250.20/FF/179080	Citrate-proton symporter (MFS superfamily)	2.A.1.6	The Metabolite:H+ Symporter (MHS) Family	2.A.1.6
+1.20.1250.20/FF/30207	AmpG muropeptide MFS transporter	NA	NA	2.A.1.57,2.A.1.25
+1.20.1250.20/FF/180864	Peptide transporter family 1	2.A.17.4	The Proton-dependent Oligopeptide Transporter (POT/PTR) Family	2.A.17.4
+1.20.1250.20/FF/180220	Peptide transporter family 1	2.A.17.4	The Proton-dependent Oligopeptide Transporter (POT/PTR) Family	2.A.17.4
+1.10.3720.10/FF/29778	Molybdate ABC transporter, permease	NA	NA	3.A.1.5,3.A.1.10,3.A.1.20,3.A.1.6,3.A.1.8,3.A.1.19
+2.40.50.100/FF/50444	UPF0194 membrane protein RB0873	NA	NA	3.A.1.105,2.A.6.1,3.A.1.122,2.A.6.3,2.A.6.2
+1.20.1250.20/FF/179507	Facilitated glucose transporter 1	2.A.1.1	The Sugar Porter (SP) Family	2.A.1.1
+3.30.70.1430/FF/13971	Multidrug resistance protein MdtB	2.A.6.2	The (Largely Gram-negative Bacterial) Hydrophobe/Amphiphile Efflux-1 (HAE1) Family	2.A.6.2
+1.20.1250.20/FF/180667	Protein BTN	2.A.57.5	The Equilibrative Nucleoside Transporter (ENT) Family	2.A.57.5
+1.20.1640.10/FF/24441	Niemann-Pick C1 protein, putative	2.A.6.6	The Eukaryotic (Putative) Sterol Transporter (EST) Family	2.A.6.6
+1.20.1640.10/FF/24539	Niemann-Pick C1-like protein 1	2.A.6.6	The Eukaryotic (Putative) Sterol Transporter (EST) Family	2.A.6.6
+1.20.1250.20/FF/178561	Vesicular glutamate transporter 1	2.A.1.14	The Anion:Cation Symporter (ACS) Family	2.A.1.14
+1.20.1250.20/FF/180187	Vesicular glutamate transporter 3	2.A.1.14	The Anion:Cation Symporter (ACS) Family	2.A.1.14
+1.20.1250.20/FF/179751	Sodium-dependent phosphate transport protein 3	2.A.1.14	The Anion:Cation Symporter (ACS) Family	2.A.1.14
+1.20.1250.20/FF/179126	Solute carrier family 22 member 2	2.A.1.19	The Organic Cation Transporter (OCT) Family (The SLC22A family including OCT1-3, OCTN1-3 and OAT1-5 of H. sapiens)	2.A.1.19
+3.40.190.10/FF/10172	Putative sugar-binding lipoprotein	NA	NA	3.A.1.1,3.A.1.19
+1.20.1250.20/FF/180059	4-hydroxybenzoate transporter PcaK	NA	NA	2.A.1.3,2.A.1.15
+1.10.3720.10/FF/58662	Oligopeptide ABC transporter permease	3.A.1.5	The Peptide/Opine/Nickel Uptake Transporter (PepT) Family	3.A.1.5
+3.10.105.10/FF/8431	Oligopeptide ABC transporter, oligopeptide-binding protein	3.A.1.5	The Peptide/Opine/Nickel Uptake Transporter (PepT) Family	3.A.1.5
+3.40.50.300/FF/634044	Methionine import ATP-binding protein MetN	3.A.1.24	The Methionine Uptake Transporter (MUT) Family (Similar to 3.A.1.3 and 3.A.1.12)	3.A.1.24
+1.10.3720.10/FF/58844	Choline ABC transporter permease	3.A.1.12	The Quaternary Amine Uptake Transporter (QAT) Family (Similar to 3.A.1.16 and 3.A.1.17)	3.A.1.12
+3.40.190.10/FF/202666	Periplasmic arginine-binding protein ArtI	3.A.1.3	The Polar Amino Acid Uptake Transporter (PAAT) Family	3.A.1.3
+1.10.3720.10/FF/58719	Histidine ABC transporter permease	3.A.1.3	The Polar Amino Acid Uptake Transporter (PAAT) Family	3.A.1.3
+2.40.50.100/FF/50506	Molybdenum import ATP-binding protein ModC	NA	NA	3.A.1.8,3.A.1.6,3.A.1.11
+3.90.76.10/FF/9328	Probable ABC transporter-binding protein DR_1571	3.A.1.5	The Peptide/Opine/Nickel Uptake Transporter (PepT) Family	3.A.1.5
+1.10.287.470/FF/154	Heat shock protein HtpX	NA	NA	2.A.6.1,3.A.1.105,2.A.1.3
+3.40.190.10/FF/12655	2-aminoethylphosphonate ABC transporter substrate-binding protein	NA	NA	3.A.1.10,3.A.1.20,3.A.1.11
+3.90.76.10/FF/9298	Peptide transport periplasmic protein	3.A.1.5	The Peptide/Opine/Nickel Uptake Transporter (PepT) Family	3.A.1.5
+2.40.170.20/FF/26173	Transferrin binding protein A	1.B.14.2	The Outer Membrane Receptor (OMR) Family	1.B.14.2
+1.20.1250.20/FF/180089	Putative organic anion transporter	2.A.60.1	The Organo Anion Transporter (OAT) Family	2.A.60.1
+3.40.50.300/FF/633712	ATP-binding cassette sub-family A member 13	3.A.1.211	The Cholesterol/Phospholipid/Retinal (CPR) Flippase Family (ABCA)	3.A.1.211
+1.20.1250.20/FF/179508	Sugar transporter 2, putative	2.A.1.1	The Sugar Porter (SP) Family	2.A.1.1
+3.40.50.300/FF/630178	Amino acid ABC transporter ATPase	3.A.1.4	The Hydrophobic Amino Acid Uptake Transporter (HAAT) Family	3.A.1.4
+1.20.1600.10/FF/23302	Outer membrane protein tolC	NA	NA	1.B.17.1,3.A.1.110,2.A.6.2
+3.40.50.2300/FF/150738	High-affinity branched-chain amino acid transporter	3.A.1.4	The Hydrophobic Amino Acid Uptake Transporter (HAAT) Family	3.A.1.4
+2.40.160.10/FF/9688	Major outer membrane protein P.IB	1.B.1.5	The General Bacterial Porin (GBP) Family	1.B.1.5
+3.40.190.10/FF/203403	Oligopeptide ABC transporter, oligopeptide-binding protein	3.A.1.5	The Peptide/Opine/Nickel Uptake Transporter (PepT) Family	3.A.1.5
+1.10.3720.10/FF/58725	Spermidine/putrescine ABC transporter permease	3.A.1.11	The Polyamine/Opine/Phosphonate Uptake Transporter (POPT) Family	3.A.1.11
+1.20.1250.20/FF/179754	Nitrite extrusion protein 2	2.A.1.8	NA	2.A.1.8
+1.20.1250.20/FF/179875	High-affinity hexose transporter HXT6	2.A.1.1	The Sugar Porter (SP) Family	2.A.1.1
+3.30.2090.10/FF/12554	Cation efflux system protein CusA	2.A.6.1	The Heavy Metal Efflux (HME) Family	2.A.6.1
+3.40.50.300/FF/629947	Multidrug resistance protein	3.A.1.201	The Multidrug Resistance Exporter (MDR) Family (ABCB)	3.A.1.201
+3.40.190.10/FF/204134	Iron ABC transporter substrate-binding protein	3.A.1.10	The Ferric Iron Uptake Transporter (FeT) Family	3.A.1.10
+1.20.1560.10/FF/26431	Type I secretion system ATPase	3.A.1.110	The Protein-2 Exporter (Prot2E) Family	3.A.1.110
+3.40.190.10/FF/203740	Nitrate transport protein NrtC	3.A.1.16	The Nitrate/Nitrite/Cyanate Uptake Transporter (NitT) Family (Similar to 3.A.1.12 and 3.A.1.17)	3.A.1.16
+1.10.3720.10/FF/58765	Taurine ABC transporter permease	NA	NA	3.A.1.17,3.A.1.16
+2.160.20.20/FF/2485	Adhesin/invasin TibA autotransporter	NA	NA	1.B.12.8,1.B.12.1
+2.40.160.10/FF/9682	Mitochondrial outer membrane porin	1.B.8.1	The Mitochondrial and Plastid Porin (MPP) Family	1.B.8.1
+2.60.40.10/FF/4377	Intimin type gamma	1.B.54.1	The Intimin/Invasin (Int/Inv) or Autotransporter-3 (AT-3) Family	1.B.54.1
+2.40.170.20/FF/26210	TonB-dependent heme receptor A	NA	NA	1.B.14.7,1.B.14.5
+3.40.190.10/FF/202639	General L-amino acid-binding protein	3.A.1.3	The Polar Amino Acid Uptake Transporter (PAAT) Family	3.A.1.3
+1.20.1250.20/FF/180394	Protein NRT1/ PTR FAMILY 1.3	2.A.17.3	The Proton-dependent Oligopeptide Transporter (POT/PTR) Family	2.A.17.3
+3.40.50.300/FF/123749	ABC transporter, ATP-binding protein	3.A.1.1	The Carbohydrate Uptake Transporter-1 (CUT1) Family	3.A.1.1
+3.40.930.10/FF/25	Sodium bicarbonate cotransporter 3	2.A.31.2	The Anion Exchanger (AE) Family	2.A.31.2
+1.10.287.570/FF/286	Sodium bicarbonate cotransporter 3	2.A.31.2	The Anion Exchanger (AE) Family	2.A.31.2
+1.10.287.570/FF/279	Electrogenic sodium bicarbonate cotransporter 4	2.A.31.2	The Anion Exchanger (AE) Family	2.A.31.2
+1.20.1250.20/FF/178654	Solute carrier family 40 member 1	2.A.100.1	The Ferroportin (Fpn) Family	2.A.100.1
+1.20.1250.20/FF/138435	MFS transporter	NA	NA	NA
+1.20.1250.20/FF/179814	Quinidine resistance protein 2	NA	NA	NA
+1.20.1250.20/FF/180816	Di-tripeptide-proton ABC symporter	NA	NA	NA
+1.20.1250.20/FF/180860	Cyanate transporter family protein	NA	NA	NA
+1.20.1580.10/FF/4891	Excinuclease ABC, A subunit	NA	NA	NA
+1.20.1580.10/FF/4896	UvrABC system protein A	NA	NA	NA
+1.20.1580.10/FF/4957	UvrABC system protein A	NA	NA	NA
+3.40.50.300/FF/213488	Excinuclease ABC subunit A	NA	NA	NA
+3.40.50.300/FF/222203	ABC transporter family protein	NA	NA	NA
+3.40.50.300/FF/247688	UvrABC system protein A	NA	NA	NA
+3.40.50.300/FF/626245	Excinuclease ABC subunit A	NA	NA	NA
+3.40.50.300/FF/630863	Putative transporter ATP-binding component	NA	NA	NA
