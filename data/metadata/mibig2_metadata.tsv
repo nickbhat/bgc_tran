@@ -1,4 +1,4 @@
-BGC	Genus	Name	Compound_count	MW	TPSA	LOGP	HACC	HDON	Type	Activities	Structure	Antibacterial	Antifungal	Siderophore	Orf_length
+BGC	Genus	Name	Compound_count	MW	TPSA	LOGP	HACC	HDON	Type	Activities	Structure	Gram	Antibacterial	Antifungal	Siderophore	Orf_length
 BGC0001311	Ruminococcus	flavecins	1	-1	NA	NA	NA	NA	RiPP	Antibacterial	NA	1	1	0	0	20
 BGC0001753	Streptomyces	radamycin	2	1105.27416032	379.51	3.13344	20	9	RiPP	NA	CC(C)C1NC(=O)C2=CSC(=N2)C2=C(N=C(C=C2)C(=O)NC(=C)C(=O)NC(=C)C(N)=O)C2=C(C)OC(=N2)C(=C)NC(=O)C(=C)NC(=O)C2=CSC(=N2)C(C)NC(=O)C2=CSC(=N2)C(C)NC(=O)C2=C(C)OC(CNC1=O)=N2	1	0	0	0	18
 BGC0002030	Byssochlamys	viriditoxin	1	-1	NA	NA	NA	NA	Polyketide	NA	NA	2	0	0	0	14
