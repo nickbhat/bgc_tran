@@ -1,5 +1,6 @@
 Data files:
 
+```
 ./cathdb/
 antismash_cathdb.tsv                - Counts of transporter CATHDB HMMs in antiSMASH BGCs
 gcfs_cathdb.tsv                     - Counts of transporter CATHDB HMMs in Gene Cluster Family BGCs
