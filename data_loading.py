@@ -129,7 +129,7 @@ def load_data(meta: pd.DataFrame) -> Dict[str, pd.DataFrame]:
             zeros['BGC'] = all_zero_bgcs
             tmp = pd.concat([tmp, zeros], ignore_index=True, sort=False)
         
-        tmp = tmp.sort_values('BGC').reset_index()
+        tmp = tmp.sort_values('BGC').reset_index(drop=True)
 
         # Step 5.c.
         tmp = tmp.join(meta[['BGC', 'Gram']].set_index('BGC'), on='BGC')
