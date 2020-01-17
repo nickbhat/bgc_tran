@@ -1,6 +1,11 @@
 Data files:
 
 ```
+./raw/                              - MiBIG files in various stages of processing
+mibig_pfam20.txt                    - cath-resolve-hits filtered PFAM20 transporter hits for mibig
+```
+
+```
 ./cathdb/
 antismash_cathdb.tsv                - Counts of transporter CATHDB HMMs in antiSMASH BGCs
 gcfs_cathdb.tsv                     - Counts of transporter CATHDB HMMs in Gene Cluster Family BGCs
@@ -23,6 +28,7 @@ specific_antibiotics                - A list of specific well studied antibiotic
 ```
 ./metadata/
 antismash_biosynthetic_matrix.tsv   - Counts of common Biosynthetic PFAMs in each antiSMASH BGC.
+biosynthetic_mibig2.tsv             - Coutns of common Biosynthetic PFAMs in each mibig2 BGC
 antismash_metadata.tsv              - Metadata for antiSMASH BGCs.
 final_fun_families.tsv              - A filtered version of original_fun_families.tsv that hand removes some HMMs that are not transporter specific.
 mibig2_metadata.tsv                 - Metadata for mibig2 BGCs.
