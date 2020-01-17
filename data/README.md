@@ -2,7 +2,8 @@ Data files:
 
 ```
 ./raw/                              - MiBIG files in various stages of processing
-mibig_pfam20.txt                    - cath-resolve-hits filtered PFAM20 transporter hits for mibig
+mibig_pfam20.txt                    - cath-resolve-hits filtered PFAM20 transporter hits for mibig2
+mibig_all_pfams.txt                 - cath-resolve-hits filtered PFAM20, SBP, and Biosynthetic hits for mibig2
 ```
 
 ```
