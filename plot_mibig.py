@@ -44,10 +44,14 @@ def mibig_viewer(mibig_dir, mibig_transporters, bgc, to_label=['ABC_tran', 'BPD_
                     start = feature.location.start
                     
                 if feature_name in transporters:
+                    found = False
                     for transporter in to_label:
                         if transporter in transporters[feature_name]:
                             genes.append(GraphicFeature(start=start, end=feature.location.end, strand=feature.location.strand, color=color, label=transporters[feature_name]))
+                            found = True
                             break
+                    if not found:
+                        genes.append(GraphicFeature(start=start, end=feature.location.end, strand=feature.location.strand, color=color))
                 else:
                     genes.append(GraphicFeature(start=start, end=feature.location.end, strand=feature.location.strand, color=color))
 
@@ -57,5 +61,5 @@ def mibig_viewer(mibig_dir, mibig_transporters, bgc, to_label=['ABC_tran', 'BPD_
                 last_end = feature.location.end
     record = GraphicRecord(sequence_length=length, features=genes)
     record.plot(figure_width=15)
-    plt.title(bgc)
+   
     #                 break
