@@ -9,7 +9,7 @@ from sklearn.metrics import precision_recall_curve
 from plotting_utils import plot_pr_curve
 
 
-def fit_cross_val_and_plot_pr(X, y, clf_dict, num_splits=5, num_repeats=5):
+def fit_cross_val_and_plot_pr(X, y, clf_dict, num_splits=5, num_repeats=5, title='Cross validation PR curve for all repeats'):
     """Does repeated cross validation, plots pr curves for each cv and each classifier.
 
     Note that clf_dict is a Dict[str, sklearn classifier]
@@ -42,7 +42,7 @@ def fit_cross_val_and_plot_pr(X, y, clf_dict, num_splits=5, num_repeats=5):
                 k = None
             plot_pr_curve(precision, recall, color=colors[j], legend=k)
 
-    plt.title(f'Cross validation PR curve for all repeats')
+    plt.title(title)
     plt.legend()
     plt.show()
 
@@ -51,7 +51,7 @@ def create_rule(feature, threshold, feature_names):
     return f'{feature_names[feature]} <= {threshold}'
 
 
-def visualize_tree_rules(X, y, clf, feature_names, num_splits=5, num_repeats=5):
+def visualize_tree_rules(X, y, clf, feature_names, num_splits=5, num_repeats=5, title='next'):
     """Does repeated cross validation, keeps list of rules, then plots rules with counts."""
     kf = StratifiedKFold(n_splits=num_splits)
     rules = []
@@ -82,6 +82,7 @@ def visualize_tree_rules(X, y, clf, feature_names, num_splits=5, num_repeats=5):
         zip(flatten(reordered_rules), flatten(reordered_nums)))}
     mean_nums = {r: np.mean(n) for r, n in mapped_nums.items()}
 
+    print(title)
     for level in range(depth):
         c = Counter(reordered_rules[level])
         labels, counts = zip(*c.items())
@@ -99,17 +100,15 @@ def visualize_tree_rules(X, y, clf, feature_names, num_splits=5, num_repeats=5):
         ax_count.set_yticklabels([mean_nums[l] for l in labels])
         ax_count.set_ylabel('Mean number of splits per rule')
         plt.show()
+    print('='*100)
 
 
-def visualize_lasso_coeffs(X, y, clf, feature_names, num_repeats=5, num_splits=5):
-    num_splits = 5
-    num_repeats = 5
-
+def visualize_lasso_coeffs(X, y, clf, feature_names, num_repeats=5, num_splits=5, title='Effect sizes merged across all repeats and all folds'):
     kf = StratifiedKFold(n_splits=num_splits)
     dfs = []
 
+    coefs = []
     for i in range(num_repeats):
-        coefs = []
         for j, (train, test) in enumerate(kf.split(X, y)):
             X_train, y_train = X.iloc[train], y.iloc[train]
             clf.fit(X_train, y_train)
@@ -119,6 +118,8 @@ def visualize_lasso_coeffs(X, y, clf, feature_names, num_repeats=5, num_splits=5
     results = pd.DataFrame(coefs)
     results = results.rename(
         columns={i: f for i, f in enumerate(feature_names)})
+    boring_idx = (results.mean() < 0.01) & (results.mean() > -0.01) & (results.std() < 0.1)
+    results = results.loc[:, ~boring_idx]
     results = results.melt(var_name='feature', value_name='vals')
     dfs.append(results)
 
@@ -126,5 +127,5 @@ def visualize_lasso_coeffs(X, y, clf, feature_names, num_repeats=5, num_splits=5
     sns.violinplot(x='vals', y='feature', data=pd.concat(dfs))
     plt.ylabel('Protein Families')
     plt.xlabel('Effect Size')
-    plt.title(f'Effect sizes merged across all repeats and all folds')
+    plt.title(title)
     plt.show()
