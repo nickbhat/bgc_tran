@@ -2,6 +2,13 @@ import pandas as pd
 from sklearn.metrics import precision_recall_curve, average_precision_score
 
 
+def create_clf_data(df):
+    """Breaks dataframe into labels and features."""
+    X = df.drop(['BGC', 'label', 'Gram'], axis=1)
+    y = df['label']
+    return X, y
+
+
 def siderophore_preprocess(data: pd.DataFrame,
                            meta: pd.DataFrame,
                            verbose: bool = False) -> pd.DataFrame:
@@ -59,8 +66,8 @@ def mw_preprocess(data: pd.DataFrame,
 
 
 def fit_classifier(X: pd.DataFrame,
-                            y: pd.Series,
-                            clf):
+                   y: pd.Series,
+                   clf):
     clf = clf.fit(X, y)
     preds = clf.predict_proba(X)
     aupr = average_precision_score(y, preds[:, 1])
