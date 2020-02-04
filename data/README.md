@@ -5,7 +5,7 @@ Three steps:
 ```
 hmmsearch --cut_ga --domtblout transporters.hits pfam_transporter20.hmm sequences.faa
 cath-tools-genomescan/bin/cath-resolve-hits.centos6 --input-format hmmer_domtblout ./transporters.hits > transporters.crh
-python create_matrix.py #update this by hand to link to output of above
+python create_matrix.py #update this by hand to link to output of above. Also might have to change expected BGC nomenclature
 ```
 
 Data files:
