@@ -43,3 +43,14 @@ antismash_pfam20.tsv                - Counts of 20 important transporter PFAMs i
 gcf_pfams.tsv                       - Counts of important transporter PFAMs in GCF BGCs
 mibig2_sbp_hits.tsv                 - Counts of Substrate Binding Protein PFAMs in Mibig2
 mibig_pfam20.tsv                    - Counts of 20 important transporter PFAMs in Mibig2
+```
+
+```
+./raw
+all_sbp.hmm                         - All SBP HMMs from PFAM
+biosynthetic100.pfam                - 100 most common biosynthetic enzymes from ClusterFinder
+create_matrix_mibig.py              - This runs on output of cath-resolve-hits  to create the tables that we then do all of our computation on
+create_matrix_cathdb.py             - Same as above but for CATHDB HMMs
+get_mibig_prots.py                  - Really simple function to get all proteins from the raw mibig GBKs. Can easily be alternated for any antismash GBK output
+pfam_transporter20.hmm              - the 20 Transporter PFAMs we've been working with
+```
